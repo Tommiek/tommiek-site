@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  Dit is de XML template voor category metadata. Alle velden moeten ingevuld worden en het gebruik van kleine/hoofdletters
+  in tag namen is belangrijk! Als je hier een foutje maakt zal de site niet gegenereerd worden.
+-->
+<category>
+  <!--
+    De id is een unieke identificatie van de category. Dit veld mag geen rare tekens bevatten, omdat deze ook gebruikt wordt
+    als directorynaam. Je kun wel een streepje gebuiken tbv SEO. Eg 'av-meubels' wordt 'http://www.tommiek.nl/av-meubels'.
+  -->
+  <id>objecten</id>
+  <!--
+    De type is geeft het onderscheid aan tussen series en gewone categorien. Gebruik 'serie' voor series en 'category' voor
+    gewone categorien.
+  -->
+  <type>category</type>
+  <!--
+    De name is de naam zoals deze getoond wordt op de gegenereerde paginas.
+  -->
+  <name>objecten</name>
+  <!--
+    De description is de beschrijving zoals deze getoond wordt op de gegenereerde paginas.
+  -->
+  <description><![CDATA[ 
+  
+  Description! Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. Hier mag vanalles staan. 
+  
+  ]]></description>
+  <!--
+    Het leadImage is de afbeelding die voor deze category getoond wordt.
+  -->
+  <leadImage>
+    <!--
+      De src is de naam van de afbeelding in de huidige directory.
+    -->
+    <src>180x135-11.jpg</src>
+    <!--
+      De alt is de alt-text voor de afbeelding.
+    -->
+    <alt>Objecten</alt>
+  </leadImage>
+  <!--
+    De products is de lijst van producten in de category.
+  -->
+  <products>
+    <!--
+      De product is een id van een betsaand product.
+    -->
+    <product>1205stamtafel</product>
+    <product>avmeubel3</product>
+  </products>
+</category>

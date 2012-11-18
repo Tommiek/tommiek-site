@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+  <id>kleinetafels</id>
+  <type>category</type>
+  <name>kleine tafels</name>
+  <description><![CDATA[ 
+  
+  Kleine tafels van tommiek
+  
+  ]]></description>
+  <leadImage>
+    <src>rubriek_lagetafel.png</src>
+    <alt>kleine tafels</alt>
+  </leadImage>
+  <products>
+    <product>kleine-tafels-grote-voet</product>
+    <product>10-05-stamtafel</product>
+    <product>krantenbak</product>
+  </products>
+</category>

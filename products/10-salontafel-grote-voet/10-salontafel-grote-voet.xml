@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>kleine-tafels-grote-voet</id>
+  
+  <name>Kleine tafels op grote voet</name>
+
+  <leadText>Kleine tafels op grote voet...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-10-01-salontafel-lead.jpg</src>
+    <alt>Kleine tafels op grote voet</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Deze meubels hebben slechts &eacute;&eacute;n dikke voet die door het tafelblad steekt. De tweede voet is vervangen door een glasplaat.<p/>
+  Onder de glasplaat van &eacute;&eacute;n van deze salontafels heeft de eigenaar een strandlandschapje ingericht met zand uit Vlieland.<br/>
+  De andere salontafel is gemaakt beuken afvalhout uit de transportsector. Goed voor brandhout, maar ook mooi hout met veel tekening.
+
+  
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>Kleine tafels op grote voet</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: kleine meubels op grote voet<br/>
+	   <h2>Details</h2>
+	   Getoonde meubels:<br/>
+	   &nbsp;&nbsp;&nbsp;10-01, 10-06<br/>
+	   Houtsoort, afmetingen en afwerking op maat
+
+  ]]></details>
+
+  <variants>
+    <variant>eiken</variant>
+    <variant>beuken</variant>
+	</variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-10-01-salontafel-01.jpg</thumb>
+      <src>tommiek-10-01-salontafel-01.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-01-salontafel-02.jpg</thumb>
+      <src>tommiek-10-01-salontafel-02.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-01-salontafel-03.jpg</thumb>
+      <src>tommiek-10-01-salontafel-03.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-01-salontafel-04.jpg</thumb>
+      <src>tommiek-10-01-salontafel-04.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>    <image>
+      <thumb>tommiek-10-06-salontafel-01.jpg</thumb>
+      <src>tommiek-10-06-salontafel-01.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>    <image>
+      <thumb>tommiek-10-06-salontafel-02.jpg</thumb>
+      <src>tommiek-10-06-salontafel-02.jpg</src>
+      <alt>Kleine tafels op grote voet</alt>
+    </image>
+  </images>
+
+</product>

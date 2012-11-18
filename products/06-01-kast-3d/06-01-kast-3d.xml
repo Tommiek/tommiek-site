@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>06-01-kast-3d</id>
+  
+  <name>.06-01 kast 3D</name>
+
+  <leadText>3D maxi...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-06-01-kast-3d-lead.jpg</src>
+    <alt>.06-01 kast 3D</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  De 3d kasten vari&euml;ren in hoogte, breedte en diepte. De vakken in de kast hebben regelmatige afmetingen.<p/>
+  Deze 3d kast is gemaakt van afvalhout uit de transportsector. Het resultaat is een strakke, metrische kast van uniek getekend beukenhout.
+  
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.06-01 kast 3D</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: kasten 3d<br/>
+	   Fotos: <a href="http://www.janhalmingh.nl/" target="new">Jan Halmingh</a>...
+	   <h2>Details</h2>
+	   3D kasten worden op maat ontworpen
+
+  ]]></details>
+
+  <variants>
+    <variant>eiken</variant>
+    <variant>kersen</variant>
+	<variant>mahonie</variant>
+	<variant>esdoorn</variant>
+	<variant>noten</variant>
+	<variant>essen</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-01.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-01.jpg</src>
+      <alt>.06-01 kast 3D</alt>
+    </image>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-02.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-02.jpg</src>
+      <alt>.06-01 kast 3D</alt>
+    </image>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-03.png</thumb>
+      <src>tommiek-06-01-kast-3d-03.jpg</src>
+      <alt>.06-01 kast 3D</alt>
+    </image>    <image>
+      <thumb>tommiek-06-01-kast-3d-04.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-04.jpg</src>
+      <alt>.06-01 kast 3D</alt>
+    </image>    <image>
+      <thumb>tommiek-06-01-kast-3d-05.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-05.jpg</src>
+      <alt>.06-01 kast 3D</alt>
+    </image>
+  </images>
+
+</product>

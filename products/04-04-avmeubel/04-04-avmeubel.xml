@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+
+  <id>04-04-avmeubel</id>
+  <name>.04-04 av meubel</name>
+
+    <leadText>Opgeruimd av meubeltje...</leadText>
+  <leadImage>
+    <src>tommiek-04-04-avmeubel-lead.jpg</src>
+     <alt>.04-04 av meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  De greeploze fronten geven deze functionele serie een strak uiterlijk. <p/>
+  Alle audio en videoapparatuur is opgeborgen achter het rolluik. Kabels zijn weggewerkt achter en onder het meubel. <br/>
+  De lades zijn onderverdeeld in compartimenten voor de games, Wii & Playstation attributen en ook is er ruimte voor 'ouderwetse' dvd's en cd's.
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.04-04 av meubel</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: greeploze meubels
+	   <p>&nbsp;</p>
+	   <h2>Details</h2>
+	   Afgewerkt met olie en pigment.
+	   
+
+  ]]></details>
+
+
+  <variants>
+    <variant>eiken</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-04-04-avmeubel-1.jpg</thumb>
+      <src>tommiek-04-04-avmeubel-1.jpg</src>
+      <alt>.04-04 av meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-04-avmeubel-2.jpg</thumb>
+      <src>tommiek-04-04-avmeubel-2.jpg</src>
+      <alt>.04-04 av meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-04-avmeubel-3.jpg</thumb>
+      <src>tommiek-04-04-avmeubel-3.jpg</src>
+      <alt>.04-04 av meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-04-avmeubel-4.jpg</thumb>
+      <src>tommiek-04-04-avmeubel-4.jpg</src>
+      <alt>.04-04 av meubel</alt>
+    </image>
+  </images>
+</product>

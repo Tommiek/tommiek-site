@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-06-boekenkast</id>
+  
+  <name>.09-06 boekenkast
+  </name>
+
+  <leadText>Robuuste boekenkast...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-09-06-kast-lead.jpg</src>
+    <alt>.09-06 boekenkast</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Deze massieve boekenkast van 180 centimeter hoog staat stevig op zijn poten. 
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.09-06 boekenkast</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   Categorie: kasten<br/>
+	   <h2>Details</h2>
+	   Eikenhout, afgewerkt met olie.
+
+  ]]></details>
+
+  <variants>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-09-06-kast-01.jpg</thumb>
+      <src>tommiek-09-06-kast-01.jpg</src>
+      <alt>.09-06 boekenkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-06-kast-02.jpg</thumb>
+      <src>tommiek-09-06-kast-02.jpg</src>
+      <alt>.09-06 boekenkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-06-kast-03.jpg</thumb>
+      <src>tommiek-09-06-kast-03.jpg</src>
+      <alt>.09-06 boekenkast</alt>
+    </image>
+  </images>
+
+</product>

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <title> Tommiek meubelmaker | portfolio </title>
+    <meta charset="utf-8" />
+    <meta name="description" content=" Laat je inspireren door het portfolio van tommiek. Hier vind je een diversiteit aan unieke en eigenzinnige meubels."/>
+    <meta name="keywords" content=" meubel, portfolio, hout, handgemaakt, meubelmaker, maatwerk, kast, nijmegen, schrijnwerker, kist, salontafel, eettafel, noten, eiken, essen, kersen, passie "/>
+    <meta name="author" content="Tom Kloppenburg" />
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta name="generator" content="Bram 2.0" />
+    <meta name="verify-v1" content="tjbka8gZCSsQNzkDEt3iwqTEy1qMfTRNZdEBl7CIzk0=" />
+    <script type="text/javascript" src="js/tommiek.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/tommiek.css" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5871902-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+  </head>
+  <body class="portfolio">
+    <div id="pagewrapper">
+      <div id="homelink" onclick="javascript: document.location='index.html'"></div>
+      <div id="menuwrapper">
+        <div id="menuitem1" class="menuitem">
+          <a href="index.html">Home</a>
+        </div>
+        <div id="menuitem2" class="menuitem selected">
+          <a class="menuitem" href="portfolio.html">Portfolio</a>
+        </div>
+        <div id="menuitem3" class="menuitem">
+          <a href="profiel.html">Profiel</a>
+        </div>
+        <div id="menuitem4" class="menuitem">
+          <a href="werkwijze.html">Werkwijze</a>
+        </div>
+        <div id="menuitem5" class="menuitem">
+          <a href="contact.html">Contact</a>
+        </div>
+      </div>
+      <div id="viewwrapper">
+        <div id="contentwrapper">
+          <div id="breadcrumb">
+            <small><a href="index.html">home</a> > portfolio</small>
+          </div>
+          <div id="contentfull">
+            <article>
+              <header>
+                <h1>Portfolio</h1>
+                <p>Tommiek werkt met hout in alle soorten en maten. Van renovatie tot creatie. Kijk hier wat tommiek te bieden heeft.</p>
+              </header>
+              <hr/>
+              <h2>series</h2>
+#set( $inDisplay = false )
+#foreach( $category in $series )
+  #if( $velocityCount%4 == 1 )
+    #set( $inDisplay = true )
+              <div class="display">
+                <div class="left">
+  #else
+                <div class="right">
+  #end
+                  <div>
+                    <a href="${category.id}/index.html">
+                      <img src="${category.id}/${category.leadImage.src}" alt="${category.leadImage.alt}" title="${category.leadImage.alt}" width="180" height="135" />
+                    </a>
+                  </div>
+                  <div class="displaytitle">
+                    <a href="${category.id}/index.html">
+                      ${category.name}
+                    </a>
+                  </div>
+                </div>
+  #if( $velocityCount%4 == 0 )
+    #set( $inDisplay = false )
+                <div class="clear"></div>
+              </div>
+  #end
+#end
+#if( $inDisplay == true )
+                <div class="clear"></div>
+              </div>
+#end
+              <hr/>
+              <h2>volledig overzicht</h2>
+#set( $inDisplay = false )
+#foreach( $category in $noseries )
+  #if( $velocityCount%4 == 1 )
+    #set( $inDisplay = true )
+              <div class="display">
+                <div class="left">
+  #else
+                <div class="right">
+  #end
+                  <div>
+                    <a href="${category.id}/index.html">
+                      <img src="${category.id}/${category.leadImage.src}" alt="${category.leadImage.alt}" title="${category.leadImage.alt}" width="180" height="135" />
+                    </a>
+                  </div>
+                  <div class="displaytitle">
+                    <a href="${category.id}/index.html">
+                      ${category.name}
+                    </a>
+                  </div>
+                </div>
+  #if( $velocityCount%4 == 0 )
+    #set( $inDisplay = false )
+                <div class="clear"></div>
+              </div>
+  #end
+#end
+#if( $inDisplay == true )
+                <div class="clear"></div>
+              </div>
+#end
+              <footer>
+              </footer>
+            </article>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div id="footerwrapper">
+          <div id="footerfloater"></div>
+          <div id="footercontent">
+            <a href="contact.html">info@tommiek.nl</a>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">06-41 24 08 81</span>
+            <span class="footerseperator">|</span>
+            <img class="footeritem" src="css/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+            <a class="footeritem" rel="me" target="new" href="http://www.linkedin.com/in/tomkloppenburg"> LinkedIn</a>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">BTW NL1014823341B01</span>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">ABNAMRO 51.99.33.753</span>
+            <span class="footerseperator">|</span>
+            <span class="footeritem"><a id="colofonlink" href="#colofon" title="Colofon">Colofon</a></span>
+          </div>
+          <div id="footerspacer"></div>
+        </div>
+      </div>
+    </div>
+    <div id="colofonwrapper">
+      <div id="colofon" class="colofon">
+        <p>De tommiek website is tot stand gekomen met hulp van:</p>
+        <table>
+          <tr>
+            <td>Fotos:</td>
+            <td><a href="http://picasaweb.google.nl/moggejan" target="new">Jan Halmingh</a></td>
+          </tr>
+          <tr>
+            <td>Teksten:</td>
+            <td>Francien S</td>
+          </tr>
+          <tr>
+            <td>Techniek:</td>
+            <td>BramK</td>
+          </tr>
+          <tr>
+            <td>Ontwerp:</td>
+            <td><a href="http://www.vandenakkerontwerp.nl" target="new">Linda van den Akker</a></td>
+          </tr>
+         </table>
+      </div>
+    </div>
+  </body>
+</html>

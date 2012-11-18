@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+	<id>kastengreeploos</id>
+	<name>greeploze kasten</name>
+	<type>serie</type>
+	<link>greeploze kasten...</link>
+  <description><![CDATA[ 
+  
+  Verschillende eikenhouten meubels in tommiek&#039;s greeploze stijl. 
+  
+  ]]></description>
+	<leadImage>
+		<src>serie_greeploos.png</src>
+		<alt>greeploze kasten</alt>
+	</leadImage>
+	<products>
+	  <product>09-02-dressoir</product>
+	  <product>09-05-kast</product>
+	  <product>04-04-avmeubel</product>
+	  <product>09-04-kast</product>
+	</products>
+</category>

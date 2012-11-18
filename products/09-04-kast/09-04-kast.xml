@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+  Dit is de XML template voor product metadata. Alle velden moeten ingevuld worden en het gebruik van kleine/hoofdletters
+  in tag namen is belangrijk! Als je hier een foutje maakt zal de site niet gegenereerd worden.
+-->
+<product>
+
+  <id>09-04-kast</id>
+
+  <name>.09-04 kast en computermeubel</name>
+
+    <leadText>Computermeubel en kast...
+  </leadText>
+  
+  <leadImage>
+    <src>tommiek-09-04-kast-lead.jpg</src>
+    <alt>.09-04 kast en computermeubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  De greeploze fronten geven deze functionele serie een strak uiterlijk. <p/>
+  Het computermeubel biedt twee werkplekken, &eacute;&eacute;n voor de professor en z'n laptop, rechts de familiewerkplek met achter de deurtjes de computer. <br />
+  In de kast hebben alle familieleden eigen opbergruimte.
+  
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.09-04 kast en computermeubel</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: greeploze kasten
+	   <h2>Details</h2>
+	   Afgewerkt met olie en pigment
+
+  ]]></details>
+  
+  <variants>
+    <variant>eiken</variant>
+  </variants>
+  <images>
+    <image>
+      <thumb>tommiek-09-04-kast-3.jpg</thumb>
+      <src>tommiek-09-04-kast-3.jpg</src>
+      <alt>.09-04 kast en computermeubel</alt>
+    </image>
+	<image>
+      <thumb>tommiek-09-04-kast-4.jpg</thumb>
+      <src>tommiek-09-04-kast-4.jpg</src>
+      <alt>.09-04 kast en computermeubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-04-kast-2.jpg</thumb>
+      <src>tommiek-09-04-kast-2.jpg</src>
+      <alt>.09-04 kast en computermeubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-04-kast-1.jpg</thumb>
+	  <src>tommiek-09-04-kast-1.jpg</src>
+	  <alt>.09-04 kast en computermeubel</alt>
+    </image>
+  </images>
+</product>

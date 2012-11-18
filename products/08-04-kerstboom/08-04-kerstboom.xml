@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>08-04-kerstboom</id>
+  
+  <name>.08-04 kerstboom
+  </name>
+
+  <leadText>Kerstboom...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-08-04-kerstboom-lead.jpg</src>
+    <alt>.08-04 kerstboom</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Een kerstboom van sloophout met een kerststalletje uit Bolivia.
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.08-04 kerstboom</h2>
+	   Ontwerp: mky<br/>
+	   Categorie: smaakmakers<br/>
+	   <p>&nbsp;</p>
+	   <h2>Details</h2>
+	   Hoogte ongeveer 50cm
+
+  ]]></details>
+
+  <variants>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-08-04-kerstboom-01.jpg</thumb>
+      <src>tommiek-08-04-kerstboom-01.jpg</src>
+      <alt>.08-04 kerstboom</alt>
+    </image>
+    <image>
+      <thumb>tommiek-08-04-kerstboom-02.jpg</thumb>
+      <src>tommiek-08-04-kerstboom-02.jpg</src>
+      <alt>.08-04 kerstboom</alt>
+    </image>
+    <image>
+      <thumb>tommiek-08-04-kerstboom-03.jpg</thumb>
+      <src>tommiek-08-04-kerstboom-03.jpg</src>
+      <alt>.08-04 kerstboom</alt>
+    </image>
+  </images>
+
+</product>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <id>kasten3d</id>
+    <name>kasten 3d</name>
+    <type>serie</type>
+    <link>3d kasten...</link>
+  <description><![CDATA[ 
+  
+  Eigenwijze kasten die in hoogte, diepte en breedte vari&euml;ren
+  
+  ]]></description>
+	<leadImage>
+		<src>serie-kastens3.png</src>
+		<alt>3d kasten</alt>
+	</leadImage>
+	<products>
+	  <product>06-01-kast-3d</product>
+	  <product>06-02-kast-3d</product>
+	</products>
+</category>

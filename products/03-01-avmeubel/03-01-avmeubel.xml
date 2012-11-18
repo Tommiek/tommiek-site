@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>03-01-avmeubel</id>
+  
+  <name>.03-01 audio video meubel-?</name>
+
+  <leadText>Een stijlvol audiovisueel meubel van esdoorn en mahonie...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-03-01-avmeubel-lead.jpg</src>
+    <alt>.03-01 audio video meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Een baken van rust en eenvoud is deze multimediakast. De elzenhouten onderkast is 60cm diep. Deze biedt met twee laden en een klep veel opbergruimte voor dvd&#039;s en apparatuur. <br/>
+  De mahonie achterwand biedt contrast &eacute;n steun voor de tv.
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.03-01 audio video meubel</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   categorie: audio video meubels<br/>
+	   <h2>Details</h2>
+	   Mahonie met Amerikaans esdoorn (maple).<br/>
+	   Afwerking met whitewash en olie.
+
+  ]]></details>
+
+  <variants>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-03-01-avmeubel-01.jpg</thumb>
+      <src>tommiek-03-01-avmeubel-01.jpg</src>
+      <alt>.03-01 audio video meubel-wedden?</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-avmeubel-02.jpg</thumb>
+      <src>tommiek-03-01-avmeubel-02.jpg</src>
+      <alt>.03-01 audio video meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-avmeubel-03.jpg</thumb>
+      <src>tommiek-03-01-avmeubel-03.jpg</src>
+      <alt>.03-01 audio video meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-avmeubel-04.jpg</thumb>
+      <src>tommiek-03-01-avmeubel-04.jpg</src>
+      <alt>.03-01 audio video meubel</alt>
+    </image>
+  </images>
+
+</product>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+	<id>av-meubels</id>
+	<name>audio video meubels</name>
+	<type>category</type>
+	<link>Alle audio video meubels</link>
+  <description><![CDATA[ 
+  
+  Audio video apparatuur kun je prima wegwerken in een mooi meubel. Hieronder vind je enkele van de oplossingen die tommiek realiseerde.  
+  
+  ]]></description>
+	<leadImage>
+		<src>rubriek_audio.png</src>
+		<alt>audio video meubels</alt>
+	</leadImage>
+	<products>
+	  <product>04-04-avmeubel</product>
+	  <product>03-01-avmeubel</product>
+	  <product>10-03-avmeubel</product>
+	  <product>04-01-av-inrichting</product>
+	  <product>08-02-avmeubel</product>
+	  <product>01-02-avmeubel</product>
+	</products>
+</category>

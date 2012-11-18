@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+  <id>diversen</id>
+  <name>diversen</name>
+  <type>category</type>
+  <description><![CDATA[ 
+  
+  Een diverse collectie meubels en smaakmakers. 
+  
+  ]]></description>
+  <leadImage>
+    <src>rubriek-diversen.png</src>
+    <alt>verschillende meubels en smaakmakers</alt>
+  </leadImage>
+  <products>
+	<product>11-07-nachtkastjes</product>
+    <product>09-02-dressoir</product>
+	<product>02-01-renovatie</product>
+	<product>05-01-kist</product>
+  </products>
+</category>

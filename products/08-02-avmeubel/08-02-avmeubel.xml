@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>08-02-avmeubel</id>
+  
+  <name>.08-02 Miami!
+  </name>
+
+  <leadText>Laatst liep ik door het art-deco-district van Miami...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-08-02-avmeubel-lead.jpg</src>
+    <alt>.08-02 Miami!</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Dit av-kastje is ge&iuml;nspireerd op de gebouwen van het Art Deco District van Miami. Gebouwd in en authentiek aan de jaren 30, lijkt hier de tijd stil te hebben gestaan. Je verwacht op elke hoek van de straat te worden aangesproken door de maffia of een voluptueus zangeresje.<p/>
+
+  In dienst als av-kastje is dit notenhouten meubel volledig op maat. Achter de tralies past de basbox, aan de voorzijde is ruimte voor cd's en dvd's en op verdieping twee is plek voor de nodige audio- en videoapparatuur.
+
+
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.08-02 Miami!</h2>
+	   Ontwerp: tommiek<br/>
+	   Categorie: audio video meubels<br/>
+	   <h2>Details</h2>
+	   Afgewerkt met blanke olie.
+
+  ]]></details>
+
+  <variants>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-08-02-avmeubel-01.jpg</thumb>
+      <src>tommiek-08-02-avmeubel-01.jpg</src>
+      <alt>.08-02 Miami!</alt>
+    </image>
+    <image>
+      <thumb>tommiek-08-02-avmeubel-02.jpg</thumb>
+      <src>tommiek-08-02-avmeubel-02.jpg</src>
+      <alt>.08-02 Miami!</alt>
+    </image>
+    <image>
+      <thumb>tommiek-08-02-avmeubel-03.jpg</thumb>
+      <src>tommiek-08-02-avmeubel-03.jpg</src>
+      <alt>.08-02 Miami!</alt>
+    </image>
+    <image>
+      <thumb>tommiek-08-02-avmeubel-04.jpg</thumb>
+      <src>tommiek-08-02-avmeubel-04.jpg</src>
+      <alt>.08-02 Miami!</alt>
+    </image>
+  </images>
+
+</product>

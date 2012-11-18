@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+  <id>tafels</id>
+  <type>category</type>
+  <name>tafels</name>
+  <description><![CDATA[ 
+  
+  Tafel is een biermerk uit Namibi&euml;. Het is een zeer populair bier in het land onder alle lagen van de bevolking.<br/>
+  De meubels hieronder hebben daar niets mee te maken.
+  
+  ]]></description>
+  <leadImage>
+    <src>rubriek_tafel.png</src>
+    <alt>Tafels</alt>
+  </leadImage>
+  <products>
+    <product>07-01-tuintafel</product>
+    <product>07-03-tafel</product>
+  </products>
+</category>

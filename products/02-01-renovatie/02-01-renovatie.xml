@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>02-01-renovatie</id>
+  
+  <name>.02-01 renovatie oude woningen
+  </name>
+
+  <leadText>renovatie binnenwerk oude woningen...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-02-01-renovatie-lead.jpg</src>
+    <alt>.02-01 renovatie oude woningen</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Deze foto&#039;s tonen de renovatie van een woning in Amsterdamse stijl. De en suite kasten zijn aangepast en gerenoveerd; de gangkast is geheel nieuw. Deze hangende gangkast onttrekt de elektriciteits- en gasmeter aan het zicht maar valt toch niet op omdat hij volledig in de stijl van het huis is gemaakt..
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.02-01 renovatie oude woningen</h2>
+	   Ontwerp: amsterdamse school, uitgewerkt door tommiek<br/>
+	   Categorie: diversen<br/>
+	   <h2>Details</h2>
+	   Materialen: mdf, vuren<br/>
+	   Gegrond en gelakt met de kwast
+
+  ]]></details>
+
+  <variants>
+  <variant>mdf</variant>
+  <variant>beuken</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-02-01-renovatie-01.jpg</thumb>
+      <src>tommiek-02-01-renovatie-01.jpg</src>
+      <alt>.02-01 renovatie oude woningen</alt>
+    </image>
+    <image>
+      <thumb>tommiek-02-01-renovatie-02.png</thumb>
+      <src>tommiek-02-01-renovatie-02.png</src>
+      <alt>.02-01 renovatie oude woningen</alt>
+    </image>
+    <image>
+      <thumb>tommiek-02-01-renovatie-03.jpg</thumb>
+      <src>tommiek-02-01-renovatie-03.jpg</src>
+      <alt>.02-01 renovatie oude woningen</alt>
+    </image>
+    <image>
+      <thumb>tommiek-02-01-renovatie-04.jpg</thumb>
+      <src>tommiek-02-01-renovatie-04.jpg</src>
+      <alt>.02-01 renovatie oude woningen</alt>
+    </image>
+  </images>
+
+</product>
