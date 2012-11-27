@@ -4,6 +4,9 @@
     <name>kasten 3d</name>
     <type>serie</type>
     <link>3d kasten...</link>
+    <htmlTitle>my product '@product@' is in category '@category@'</htmlTitle>
+  <metaDescription>kasten3d meta description</metaDescription>
+  <metaKeywords>keyword1, keyword2</metaKeywords>
   <description><![CDATA[ 
   
   Eigenwijze kasten die in hoogte, diepte en breedte vari&euml;ren
