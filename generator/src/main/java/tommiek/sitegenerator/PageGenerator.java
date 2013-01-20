@@ -3,8 +3,6 @@ package tommiek.sitegenerator;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.Writer;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Properties;
@@ -22,13 +20,11 @@ public class PageGenerator {
 
 	private final Properties myProperties;
 
-	public PageGenerator(final File workDir, final Properties properties) throws GenerateException {
+	public PageGenerator(final File templatesDir, final Properties properties) throws GenerateException {
 		myProperties = properties;
-		final Path workPath = Paths.get(workDir.toURI());
-		final Path tmplPath = workPath.resolve("templates");
 		final Properties p = new Properties();
 		p.setProperty("resource.loader", "file");
-		p.setProperty("file.resource.loader.path", tmplPath.toString());
+		p.setProperty("file.resource.loader.path", templatesDir.getAbsolutePath());
 		p.setProperty("runtime.log.logsystem.class", org.apache.velocity.runtime.log.NullLogChute.class.getName());
 		p.setProperty("runtime.log.logsystem.root", "");
 		try {

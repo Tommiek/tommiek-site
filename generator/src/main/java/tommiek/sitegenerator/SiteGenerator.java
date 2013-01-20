@@ -85,7 +85,7 @@ public final class SiteGenerator {
 
 		try {
 			final SitemapBuilder sitemapBuilder = new SitemapBuilder();
-			final PageGenerator pageGenerator = new PageGenerator(directory, myProperties);
+			final PageGenerator pageGenerator = new PageGenerator(templatesDir, myProperties);
 			final ModelBuilder modelBuilder = new ModelBuilder().build(productsDir, categoriesDir);
 
 			LOG.log(Level.INFO, "Cleaning target directory " + targetDir.getAbsolutePath());
