@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="nl">
+  <head>
+    <title>${htmlTitle}</title>
+    <meta name="description" content="${metaDescription}"/>
+    <meta name="keywords" content="${metaKeywords}"/>
+    <meta name="author" content="Tom Kloppenburg" />
+    <meta name="generator" content="Bram 2.0" />
+    <meta name="verify-v1" content="tjbka8gZCSsQNzkDEt3iwqTEy1qMfTRNZdEBl7CIzk0=" />
+    <script type="text/javascript" src="../js/tommiek.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/tommiek.css" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5871902-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
+  </head>
+  <body class="product">
+    <div id="pagewrapper">
+      <div id="homelink" onclick="javascript: document.location='index.html'"></div>
+      <div id="menuwrapper">
+        <div id="menuitem1" class="menuitem">
+          <a href="../index.html">Home</a>
+        </div>
+        <div id="menuitem2" class="menuitem selected">
+          <a class="menuitem" href="../portfolio.html">Portfolio</a>
+        </div>
+        <div id="menuitem3" class="menuitem">
+          <a href="../profiel.html">Profiel</a>
+        </div>
+        <div id="menuitem4" class="menuitem">
+          <a href="../werkwijze.html">Werkwijze</a>
+        </div>
+        <div id="menuitem5" class="menuitem">
+          <a href="../contact.html">Contact</a>
+        </div>
+      </div>
+      <div id="viewwrapper">
+        <div id="contentwrapper">
+          <div id="breadcrumb">
+            <small><a href="../index.html">home</a> > <a href="../portfolio.html">portfolio</a> > <a href="index.html">${category.name}</a> > ${product.name} </small>
+          </div>
+          <div id="prevnext">
+            <div id="prev">
+#if( $prevproduct )
+              <div class="text">
+                <a href="${prevproduct.id}.html">vorig&nbsp;product&nbsp;</a>
+              </div>
+              <div class="arrow">
+                <a href="${prevproduct.id}.html"><img src="../css/vorige.png" alt="vorig product" title="vorig product" /></a>
+              </div>
+#end
+            </div>
+            <div id="next">
+#if( $nextproduct )
+              <div class="arrow">
+                <a href="${nextproduct.id}.html"><img src="../css/volgende.png" alt="volgend product" title="volgend product" /></a>
+              </div>
+              <div class="text">
+                <a href="${nextproduct.id}.html">&nbsp;volgend&nbsp;product</a>
+              </div>
+#end
+            </div>
+          </div>
+          <div id="printbutton">
+            <small><a href="#" onclick="javascript: window.print();">print</a></small>
+          </div>
+          <div id="contentfull">
+            <article>
+              <header>
+              </header>
+              <div class="display">
+                <div class="left">
+                  <div>
+                    <img id="productimage" src="${product.firstImage.src}" alt="${product.firstImage.alt}" title="${product.firstImage.alt}" />
+                    <br/>
+                    <br/>
+                  </div>
+                  <div class="displaytitle">
+                    ${product.description}
+                  </div>
+                </div>
+                <div class="mid">
+#foreach( $image in $product.images )
+                  <div class="thumbimage">
+                    <img src="${image.thumb}" alt="${image.alt}" title="${image.alt}" height="47" data-full="${image.src}" class="productthumbnail" />
+                  </div>
+#end
+                </div>
+                <div class="right">
+                  ${product.details}
+#if( $product.variants )
+                  <br/><br/><br/>
+                  Leverbaar in:
+                  <br/><br/>
+  #set( $inRow = false )
+  #foreach( $variant in $product.variants )
+    #if( $velocityCount%4 == 1 )
+      #set( $inRow = true )
+              <div class="variant">
+                <div class="left">
+    #else
+                <div class="right">
+    #end
+                    <div class="image">
+                      <img src="../css/${variant}.jpg" width="60" height="40" alt="${variant}" title="${variant}" /><br/>
+                    </div>
+                    <div class="text">
+                      ${variant}
+                    </div>
+                  </div>
+    #if( $velocityCount%4 == 0 )
+      #set( $inRow = false )
+                <div class="clear"></div>
+              </div>
+    #end
+  #end
+  #if( $inRow == true )
+    #set( $inDisplay = false )
+                <div class="clear"></div>
+              </div>
+  #end
+#end
+                </div>
+                <div class="clear"></div>
+              </div>
+              <footer>
+              </footer>
+            </article>
+          </div>
+          <div class="clear"></div>
+        </div>
+        <div id="footerwrapper">
+          <div id="footerfloater"></div>
+          <div id="footercontent">
+            <a href="contact.html">info@tommiek.nl</a>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">06-41 24 08 81</span>
+            <span class="footerseperator">|</span>
+            <img class="footeritem" src="../css/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+            <a class="footeritem" rel="me" target="new" href="http://www.linkedin.com/in/tomkloppenburg"> LinkedIn</a>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">KvK 09167019</span>
+            <span class="footerseperator">|</span>
+            <span class="footeritem">ABNAMRO 51.99.33.753</span>
+            <span class="footerseperator">|</span>
+            <span class="footeritem"><a id="colofonlink" href="#colofon" title="Colofon">Colofon</a></span>
+          </div>
+          <div id="footerspacer"></div>
+        </div>
+      </div>
+    </div>
+    <div id="colofonwrapper">
+      <div id="colofon" class="colofon">
+        <p>De tommiek website is tot stand gekomen met hulp van:</p>
+        <table>
+          <tr>
+            <td>Fotos:</td>
+            <td><a href="http://www.janhalmingh.nl/" target="new">Jan Halmingh</a></td>
+          </tr>
+          <tr>
+            <td>Teksten:</td>
+            <td>Francien S</td>
+          </tr>
+          <tr>
+            <td>Techniek:</td>
+            <td>Bram de Kruijff</td>
+          </tr>
+          <tr>
+            <td>Ontwerp:</td>
+            <td><a href="http://www.vandenakkerontwerp.nl" target="new">Linda van den Akker</a></td>
+          </tr>
+         </table>
+      </div>
+    </div>
+  </body>
+</html>
