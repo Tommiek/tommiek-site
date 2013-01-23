@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>04-05-avmeubel-hoogglans</id>  
+  <name>.04-05 AV meubel hoogglans</name>
+  <htmlTitle>Hallo hallo</htmlTitle>
+  <metaDescription>avmeubel meta description</metaDescription>
+  <metaKeywords>@category@, keyword3, keyword2</metaKeywords>
+
+  <leadText><![CDATA[
+  Industri&euml;le uitstraling gecombineerd met het warme van hout...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-04-05-avmeubel-hoogglans-lead.jpg</src>
+    <alt>.04-05 AV meubel Hoogglans</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  Dit 'hang av'- meubel is door de eigenaar zelf bedacht en met Tommiek uitgewerkt.</br> 
+  Wensen van de opdrachtgever: strak en mooi om naar te kijken, ruime opbergruimte, gebruiksvriendelijk en de snoeren van apparatuur weggewerkt.</>
+  Resultaat is een combinatie van strak industrieel hoogglans witte deuren en het warme natuurlijke van hout. 
+ 
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.04-05-avmeubel-hoogglans</h2>
+	   Ontwerp: opdrachtgever ism tommiek<br/>
+	   Categorie: audio video meubels
+	   <h2>Details</h2>
+	   Fronts en buitenzijde kast zijn van hoogglans gespoten MDF. Het bovenblad is van eikenhout; het binnenwerk en de lades zijn van gestoomd beukenhout.</br>
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-04-05-avmeubel-hoogglans-01.jpg</thumb>
+      <src>tommiek-04-05-avmeubel-hoogglans-01.jpg</src>
+      <alt>.04-05-avmeubel-hoogglans</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-05-avmeubel-hoogglans-03.jpg</thumb>
+      <src>tommiek-04-05-avmeubel-hoogglans-03.jpg</src>
+      <alt>.04-05-avmeubel-hoogglans</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-05-avmeubel-hoogglans-04.jpg</thumb>
+      <src>tommiek-04-05-avmeubel-hoogglans-04.jpg</src>
+      <alt>.04-05-avmeubel-hoogglans</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-05-avmeubel-hoogglans-05.jpg</thumb>
+      <src>tommiek-04-05-avmeubel-hoogglans-05.jpg</src>
+      <alt>.04-05-avmeubel-hoogglans</alt>
+    </image>
+  </images>
+
+</product>

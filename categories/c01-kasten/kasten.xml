@@ -3,9 +3,7 @@
   <id>kasten</id>
   <name>kasten</name>
   <type>category</type>
-  <link>Alle kasten</link>
-  <metaDescription>kasten meta description</metaDescription>
-  <metaKeywords>keyword1, keyword2</metaKeywords>
+  <link>alle kasten...</link>
   <description><![CDATA[ 
   
   Een selectie uit de kasten die tommiek realiseerde.
@@ -15,6 +13,7 @@
     <src>rubriek_kast.png</src>
     <alt>Overzicht kasten</alt>
   </leadImage>
+  
   <products>
     <product>09-01-kast</product>
     <product>06-02-kast-3d</product>

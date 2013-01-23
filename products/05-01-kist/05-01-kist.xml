@@ -15,8 +15,8 @@
   
   <description><![CDATA[
 
-  Tommiek&#039;s kisten kun je op allerlei manieren gebruiken. Zo zijn er kisten gemaakt voor dekens, voor tekenmateriaal, gereedschap, fotos, rommeltjes, visitekaartjes en speelgoed.<br/>
-  Soms horen de kisten bij een kast of passen ze precies onder de vensterbank of trap. Soms ook staan ze helemaal op zichzelf.<p/>
+  Tommiek&#039;s kisten kun je op allerlei manieren gebruiken. Zo zijn er kisten gemaakt voor dekens, voor tekenmateriaal, gereedschap, foto&#039;s, rommeltjes, visitekaartjes en speelgoed.<br/>
+  <p>Soms horen de kisten bij een kast of passen ze precies onder de vensterbank of trap. Soms ook staan ze helemaal op zichzelf.</p>
   Hoe dan ook, kisten zijn simpel, functioneel en mooi.
 
   ]]></description>
@@ -30,6 +30,18 @@
 	   Verkrijgbaar in diverse maten en afwerkingen
 
   ]]></details>
+
+  <variants>
+    <variant>beuken</variant>
+    <variant>eiken</variant>
+    <variant>kersen</variant>
+	<variant>mahonie</variant>
+	<variant>esdoorn</variant>
+	<variant>noten</variant>
+	<variant>teak</variant>
+	<variant>essen</variant>
+	<variant>beuken-gestoomd</variant>
+  </variants>
 
   <images>
     <image>

@@ -6,7 +6,7 @@
   <name>.02-01 renovatie oude woningen
   </name>
 
-  <leadText>renovatie binnenwerk oude woningen...
+  <leadText>Renovatie binnenwerk oude woningen...
   </leadText>
   
   <leadImage>    <src>tommiek-02-01-renovatie-lead.jpg</src>
@@ -15,7 +15,8 @@
   
   <description><![CDATA[
 
-  Deze foto&#039;s tonen de renovatie van een woning in Amsterdamse stijl. De en suite kasten zijn aangepast en gerenoveerd; de gangkast is geheel nieuw. Deze hangende gangkast onttrekt de elektriciteits- en gasmeter aan het zicht maar valt toch niet op omdat hij volledig in de stijl van het huis is gemaakt..
+  <p>Deze foto&#039;s tonen de renovatie van een woning in Amsterdamse stijl.</p> 
+  De en suite kasten zijn aangepast en gerenoveerd; de gangkast is geheel nieuw. Deze hangende gangkast onttrekt de elektriciteits- en gasmeter aan het zicht maar valt toch niet op omdat hij volledig in de stijl van het huis is gemaakt.
 
   ]]></description>
 
@@ -31,8 +32,9 @@
   ]]></details>
 
   <variants>
-  <variant>mdf</variant>
-  <variant>beuken</variant>
+    <variant>mdf</variant>
+    <variant>grenen</variant>
+    <variant>beuken-gestoomd</variant>
   </variants>
 
   <images>
