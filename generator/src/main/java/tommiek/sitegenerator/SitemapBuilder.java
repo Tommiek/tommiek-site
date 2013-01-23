@@ -27,7 +27,7 @@ public final class SitemapBuilder {
 			marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
 			marshaller.marshal(urlSet, file);
 		} catch (JAXBException e) {
-			throw new GenerateException("Failed to create products unmarshaller", e);
+			throw new GenerateException("Failed to create urlset unmarshaller", e);
 		}
 
 	}
