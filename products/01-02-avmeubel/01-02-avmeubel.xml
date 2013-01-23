@@ -2,18 +2,16 @@
 
 <product>
   <id>01-02-avmeubel</id>
-  <name>.01-02 avmeubel</name>
+  
+  <name>.01-02 avmeubel
+  </name>
 
   <leadText>Eigenwijs audio meubeltje...
   </leadText>
   
   <leadImage>    <src>tommiek-01-02-avmeubel-lead.jpg</src>
-    <alt>naam</alt>
+    <alt>.01-02 avmeubel</alt>
   </leadImage>
-  
-  <htmlTitle>aaaaaaaaaaaaaaaaaaa</htmlTitle>
-  <metaDescription>avmeubel meta description</metaDescription>
-  <metaKeywords>@category@, keyword3, keyword2</metaKeywords>
   
   <description><![CDATA[
 
@@ -31,19 +29,17 @@
 
   ]]></details>
 
-  <variants>
-  </variants>
 
   <images>
     <image>
       <thumb>tommiek-01-02-avmeubel-01.jpg</thumb>
       <src>tommiek-01-02-avmeubel-01.jpg</src>
-      <alt>naam</alt>
+      <alt>.01-02 avmeubel</alt>
     </image>
     <image>
       <thumb>tommiek-01-02-avmeubel-02.jpg</thumb>
       <src>tommiek-01-02-avmeubel-02.jpg</src>
-      <alt>naam</alt>
+      <alt>.01-02 avmeubel</alt>
     </image>
   </images>
 

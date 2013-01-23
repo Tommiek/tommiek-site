@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+	<id>meubelsopgrotevoet</id>
+	<name>meubels op grote voet</name>
+	<type>serie</type>
+	<link>alle meubels op grote voet...</link>
+  <description><![CDATA[ 
+  
+  Kleine meubels op grote voet, in dienst als salontafel of av-meubel.
+  
+  ]]></description>
+	<leadImage>
+		<src>serie_tafelsmetgrotevoet.png</src>
+		<alt>meubels op grote voet</alt>
+	</leadImage>
+	<products>
+	  <product>10-01-salontafel</product>
+	  <product>10-03-avmeubel</product>
+	  <product>10-06-salontafel</product>
+	</products>
+</category>

@@ -2,24 +2,21 @@
 
 <product>
   <id>nn-nn-naamkort</id>  
-
   <name>.nn-nn naam uitgebreid</name>
 
-  <leadText>leadtekst voor op categorie- of seriepagina...</leadText>
-  
+  <leadText><![CDATA[
+  Leadtekst voor op categorie- of seriepagina...</leadText>
+  ]]>
   <leadImage>    
 	<src>tommiek-id-lead.jpg</src>
     <alt>name</alt>
   </leadImage>
   
   <description><![CDATA[
-
-  Vrije producttekst.
-
+  Vrije producttekst voor onder de fotos op productpagina.
   ]]></description>
 
   <details><![CDATA[
-	
 	   <h2>name</h2>
 	   Ontwerp: tommiek<br/>
 	   Categorie: Serie: 

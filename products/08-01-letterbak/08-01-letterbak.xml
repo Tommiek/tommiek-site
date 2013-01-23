@@ -15,7 +15,7 @@
   
   <description><![CDATA[
 
-  De letterbak 2.0 is ge&iuml;nspireerd op de letterbakken die je vroeger overal aan de muur zag hangen. Alle bakjes in deze nieuwe letterbak zijn op maat gemaakt voor een persoonlijke herinnering of een bijzonder object.<br/>
+  <p>De letterbak 2.0 is ge&iuml;nspireerd op de letterbakken die je vroeger overal aan de muur zag hangen. Alle bakjes in deze nieuwe letterbak zijn op maat gemaakt voor een persoonlijke herinnering of een bijzonder object.</p>
   Het gebruikte beukenhout is afvalhout en heeft daarom vaak een bijzondere tekening.<br/>
 
   ]]></description>
@@ -34,9 +34,9 @@
   <variants>
     <variant>beuken</variant>
     <variant>kersen</variant>
-	<variant>Mahonie</variant>
-	<variant>Esdoorn</variant>
-	<variant>Noten</variant>
+	<variant>mahonie</variant>
+	<variant>esdoorn</variant>
+	<variant>noten</variant>
   </variants> 
 
   <images>
