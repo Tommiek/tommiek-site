@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>07-05-tafel</id>  
+  <name>.07-05 eettafel</name>
+
+  <leadText><![CDATA[
+  Ovale eettafel met robuust onderstel...</leadText>
+  ]]>
+  <leadImage>    
+	<src>tommiek-07-05-tafel-lead.jpg</src>
+    <alt>.07-05 eettafel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  Deze ovale tafel met een robuust, wijkend onderstel is niet alleen fraai om naar te kijken, maar ook uiterst functioneel.<BR/>
+  De tafel biedt ruim plaats aan zes personen, maar neemt dankzij haar ovale vorm relatief weinig plek in.<BR/>
+  De tafel is afgewerkt met matte lak waardoor de fraaie structuur van het (essen-)hout goed beschermd is voor intensief gebruik.
+   
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.07-05 eettafel</h2>
+	   Ontwerp: tommiek<br/>
+	   Categorie: Tafels <br/>
+	   nbsp;
+	   <h2>Details</h2>
+	   Afmetingen van het getoonde model: 190cm lang; maximaal 105cm breed, 75cm hoog<br/>
+	   Houtsoort: essen<br/>
+	   Afwerking: matte lak
+	   
+  ]]></details>
+
+  <variants>
+    <variant>eiken</variant>
+    <variant>kersen</variant>
+	<variant>esdoorn</variant>
+	<variant>noten</variant>
+	<variant>essen</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-07-05-tafel-01.jpg</thumb>
+      <src>tommiek-07-05-tafel-01.jpg</src>
+      <alt>.07-05 eettafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-07-05-tafel-02.jpg</thumb>
+      <src>tommiek-07-05-tafel-02.jpg</src>
+      <alt>.07-05 eettafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-07-05-tafel-03.jpg</thumb>
+      <src>tommiek-07-05-tafel-03.jpg</src>
+      <alt>.07-05 eettafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-07-05-tafel-04.jpg</thumb>
+      <src>tommiek-07-05-tafel-04.jpg</src>
+      <alt>.07-05 eettafel</alt>
+    </image>
+  </images>
+
+</product>

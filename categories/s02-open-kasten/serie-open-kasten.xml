@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <id>open-kasten</id>
+    <name>open kasten</name>
+    <type>serie</type>
+    <link>alle open kasten...</link>
+  <description><![CDATA[ 
+  
+  Eigenwijze kasten die in hoogte, breedte en soms ook diepte vari&euml;ren. Net als de vakken waarin de kasten zijn opgedeeld. 
+  
+  ]]></description>
+	<leadImage>
+		<src>serie-kastens3.png</src>
+		<alt>open kasten</alt>
+	</leadImage>
+	<products>
+	  <product>06-01-kast-3d</product>
+	  <product>09-09-open-kast</product>
+	  <product>09-11-open-kast</product>
+	  <product>06-02-kast-3d</product>
+	  <product>09-07-kast</product>
+
+	</products>
+</category>

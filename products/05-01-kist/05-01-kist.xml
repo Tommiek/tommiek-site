@@ -55,11 +55,6 @@
       <alt>.05 kisten</alt>
     </image>
     <image>
-      <thumb>tommiek-05-01-kist-03.jpg</thumb>
-      <src>tommiek-05-01-kist-03.jpg</src>
-      <alt>.05 kisten</alt>
-    </image>
-    <image>
       <thumb>tommiek-05-01-kist-05.jpg</thumb>
       <src>tommiek-05-01-kist-05.jpg</src>
       <alt>.05 kisten</alt>
@@ -70,5 +65,14 @@
       <alt>.05 kisten</alt>
     </image>
   </images>
-
+    <image>
+      <thumb>tommiek-05-01-kist-07.png</thumb>
+      <src>tommiek-05-01-kist-07.png</src>
+      <alt>.05 kisten</alt>
+    </image>
+	    <image>
+      <thumb>tommiek-05-01-kist-08.png</thumb>
+      <src>tommiek-05-01-kist-08.png</src>
+      <alt>.05 kisten</alt>
+    </image>
 </product>
