@@ -64,15 +64,15 @@
       <src>tommiek-05-01-kist-06.jpg</src>
       <alt>.05 kisten</alt>
     </image>
-  </images>
-    <image>
-      <thumb>tommiek-05-01-kist-07.png</thumb>
-      <src>tommiek-05-01-kist-07.png</src>
-      <alt>.05 kisten</alt>
+  <image>
+    <thumb>tommiek-05-01-kist-07.png</thumb>
+    <src>tommiek-05-01-kist-07.png</src>
+    <alt>.05 kisten</alt>
     </image>
-	    <image>
-      <thumb>tommiek-05-01-kist-08.png</thumb>
-      <src>tommiek-05-01-kist-08.png</src>
-      <alt>.05 kisten</alt>
+</images>
+  <image>
+    <thumb>tommiek-05-01-kist-08.png</thumb>
+    <src>tommiek-05-01-kist-08.png</src>
+    <alt>.05 kisten</alt>
     </image>
 </product>
