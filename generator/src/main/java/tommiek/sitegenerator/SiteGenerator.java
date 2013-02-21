@@ -131,7 +131,7 @@ public final class SiteGenerator {
 							.append("\n----------------------------------------------------------------------------------------")
 							.toString());
 		} catch (final GenerateException e) {
-			LOG.log(Level.SEVERE, "Foutje!!!! \n" + e.getMessage());
+			LOG.log(Level.SEVERE, e.getMessage(),e);
 		}
 	}
 
