@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-10-dressoir</id>  
+  <name>.09-10 Hoogglans zwevend dressoir</name>
+  <htmlTitle>Hoogglans zwevend dressoir .09-10 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Modern zwevend dressoir in hoogglans</metaDescription>
+  <metaKeywords>@product@, dressoir op maat, hoogglans, dressoir, meubelmaker, nijmegen</metaKeywords>
+
+  <leadText><![CDATA[
+  Hoogglans zwevend dressoir met lades...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-09-10-dressoir-hoogglans-lead.jpg</src>
+    <alt>.09-10 Hoogglans zwevend dressoir</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  Dit zwevende dressoir is een echte eyecatcher. Niet in de laatste plaats door z'n rode kleur in hoogglans. <br/>
+  De lades zijn greeploos, een licht duwtje is voldoende om ze te openen.  
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-10 Hoogglans zwevend dressoir</h2>
+	   Ontwerp: opdrachtegever ism tommiek<br/>
+	   Categorie: Kasten 
+	   <h2>Details</h2>
+	   MDF, hoogglans gespoten, greeploos ladebeslag
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-09-10-dressoir-hoogglans-01.jpg</thumb>
+      <src>tommiek-09-10-dressoir-hoogglans-01.jpg</src>
+      <alt>.09-10 Hoogglans zwevend dressoir</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-10-dressoir-hoogglans-02.jpg</thumb>
+      <src>tommiek-09-10-dressoir-hoogglans-02.jpg</src>
+      <alt>.09-10 Hoogglans zwevend dressoir</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-10-dressoir-hoogglans-03.jpg</thumb>
+      <src>tommiek-09-10-dressoir-hoogglans-03.jpg</src>
+      <alt>.09-10 Hoogglans zwevend dressoir</alt>
+    </image>
+  </images>
+
+</product>

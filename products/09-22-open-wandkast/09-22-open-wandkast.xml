@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-22-open-wandkast</id>  
+  <name>.09-22 Open eiken wandkast</name>
+  <htmlTitle>Open wandvullende boekenkast .09-23 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Grote open eiken kast op maat rondom deuren</metaDescription>
+  <metaKeywords>open kast, eiken kast, wandkast, eiken kast op maat</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Passende eiken kast in historische zolderkamer...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-09-22-eiken-open-wandkast-lead.jpg</src>
+    <alt>.09-22 Open eiken wandkast</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>In een historische zolderkamer van een historisch pandje in een historisch stadje in Noord-Brabant moest een passende kast komen.</br>
+  De eikenhouten open kast moest passen bij de zware eiken balken van het dak en de houten vloer.</p>
+  <p>Gezien het gebrek aan rechte wanden moest de kast bovendien op maat rondom de deur gemaakt worden</br>
+  De klant had het allemaal al zelf bedacht, Tommiek moest de kast alleen nog maar maken. En zie hier, mooi toch!?</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-22 Open eiken wandkast</h2>
+	   Ontwerp: opdrachtgever<br/>
+	   Serie: Open kasten
+	   <h2>Details</h2>
+	   Eikenhout, afgewerkt met hoogwaardige meubelolie
+
+  ]]></details>
+
+  <images>
+    <image>
+      <thumb>tommiek-09-22-eiken-open-wandkast-01.jpg</thumb>
+      <src>tommiek-09-22-eiken-open-wandkast-01.jpg</src>
+      <alt>.09-22 Open eiken wandkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-22-eiken-open-wandkast-02.jpg</thumb>
+      <src>tommiek-09-22-eiken-open-wandkast-02.jpg</src>
+      <alt>.09-22 Open eiken wandkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-22-eiken-open-wandkast-03.jpg</thumb>
+      <src>tommiek-09-22-eiken-open-wandkast-03.jpg</src>
+      <alt>.09-22 Open eiken wandkast</alt>
+    </image>
+  </images>
+
+</product>

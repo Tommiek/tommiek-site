@@ -4,7 +4,9 @@
   <id>06-01-kast-3d</id>
   
   <name>.06-01 kast 3D</name>
-
+  	<htmlTitle>Open kast 3D .06-01 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle open kasten en wandmeubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, open kast, wandmeubels, wandkasten, maatkasten, meubelmakerij, nijmegen</metaKeywords>
   <leadText>open kast in 3D...
   </leadText>
   
@@ -30,14 +32,6 @@
 
   ]]></details>
 
-  <variants>
-    <variant>eiken</variant>
-    <variant>kersen</variant>
-	<variant>mahonie</variant>
-	<variant>esdoorn</variant>
-	<variant>noten</variant>
-	<variant>essen</variant>
-  </variants>
 
   <images>
     <image>

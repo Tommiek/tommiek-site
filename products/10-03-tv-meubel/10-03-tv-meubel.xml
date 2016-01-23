@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>10-03-tv-meubel</id>
+  
+  <name>.10-03 tv meubel</name>
+  	<htmlTitle>TV-meubel .10-03 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle tv-meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, meubels op maat, televisiemeubel, eiken, glasplaat, nijmegen</metaKeywords>
+  <leadText>Grote voet in dienst als tv meubel...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-10-03-tv-meubel-lead.jpg</src>
+    <alt>.10-03 tv meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+    <p>Deze meubels hebben slechts &eacute;&eacute;n dikke voet die door het tafelblad steekt. De tweede voet is vervangen door een glasplaat.</p>
+	De kabels in dit kleine tv meubeltje worden weggewerkt onder het holle bovenblad. In het middelste blad en achter de poot zijn eveneens voorzieningen om kabels uit het zicht te houden. <br/>
+	Het meubel staat op zwenkwieltjes en is daardoor gemakkelijk bij te draaien naar de kijkrichting.
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.10-03 tv meubel</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: kleine meubels op dikke voet<br/>
+	   <h2>Details</h2>
+	   De poot is afgewerkt met blanke meubelolie<br/>
+	   De bladen zijn afgewerkt met een witte wax
+
+  ]]></details>
+
+  <variants>
+    <variant>eiken</variant>
+	<variant>beuken</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-10-03-tv-meubel-01.jpg</thumb>
+      <src>tommiek-10-03-tv-meubel-01.jpg</src>
+      <alt>.10-03 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-03-tv-meubel-02.jpg</thumb>
+      <src>tommiek-10-03-tv-meubel-02.jpg</src>
+      <alt>.10-03 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-03-tv-meubel-03.jpg</thumb>
+      <src>tommiek-10-03-tv-meubel-03.jpg</src>
+      <alt>.10-03 tv meubel</alt>
+    </image>
+  </images>
+
+</product>

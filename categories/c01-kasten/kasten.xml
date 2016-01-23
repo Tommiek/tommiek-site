@@ -2,11 +2,14 @@
 <category>
   <id>kasten</id>
   <name>kasten</name>
-  <type>category</type>
+	<htmlTitle>Kasten op maat | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle handgemaakte kasten op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, maatkast, kast op maat, meubelmakerij, nijmegen</metaKeywords>
+	<type>category</type>
   <link>alle kasten...</link>
   <description><![CDATA[ 
   
-  Een selectie uit de kasten die tommiek realiseerde.
+  Een selectie kasten op maat die tommiek maakte.
   
   ]]></description>
   <leadImage>
@@ -15,16 +18,25 @@
   </leadImage>
   
   <products>
+	 <product>09-22-open-wandkast</product>
+	 <product>09-23-open-wandkast</product>
+	 <product>06-01-kast-3d</product>
+	 <product>13-02-keukenkast</product>
+	 <product>09-21-boek-en-tv-kast</product>
+	 <product>09-13-greeploze-kledingkast</product>
     <product>09-09-open-kast</product>
+	 <product>09-10-dressoir</product>
     <product>09-01-kast</product>
+    <product>09-20-kledingkast</product>
     <product>06-02-kast-3d</product>
+	 <product>09-12-greeploze-kast</product>
     <product>09-11-open-kast</product>
-	<product>09-08-kinderkast-renee</product>
+	 <product>09-08-kinderkast-renee</product>
     <product>09-06-boekenkast</product>
-	<product>09-07-kast</product>
-	<product>09-05-kast</product>
-	<product>09-03-kinderkast-joeri</product>
+	 <product>09-07-kast</product>
+	 <product>09-05-kast</product>
+	 <product>09-03-kinderkast-joeri</product>
     <product>06-01-kast-3d</product>
-	<product>09-04-kast</product>
-	</products>
+	 <product>09-04-kast</product>
+	 </products>
 </category>

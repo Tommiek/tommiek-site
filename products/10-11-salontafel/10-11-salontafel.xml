@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>10-11-salontafel</id>  
+  <name>.10-11 Vierkante salontafel met opbergruimte</name>
+  <htmlTitle>Salontafel .10-11 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle kleine tafels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, bijzettafel, meubels op maat, salontafel, nijmegen</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Vierkante salontafel met veel bergruimte...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-10-11-salontafel-met-lade-lead.jpg</src>
+    <alt>.10-11 Vierkante salontafel met opbergruimte</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>Met een bulk aan tijdschriften, de tv-GIDS, een dozijn afstandbedieningen voor alle apparatuur van en met twee opgroeiende kinderen was de belangrijkste vereiste aan de salontafel: RUIMTE</p>
+    <p>Dat is wel gelukt met deze salontafel. bovendien past deze salontafel uitstekend bij de greeploze meubels die deze klanten eerder bij tommiek hebben afgenomen</p>
+  
+  
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.10-11 Vierkante salontafel met opbergruimte</h2>
+	   Ontwerp: Tommiek<br/>
+	   Categorie: Kleine tafels
+	   <h2>Details</h2>
+	   Eikenhout, afgewerkt met meubelolie
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-10-11-salontafel-met-lade-01.jpg</thumb>
+      <src>tommiek-10-11-salontafel-met-lade-01.jpg</src>
+      <alt>.10-11 Vierkante salontafel met opbergruimte</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-11-salontafel-met-lade-02.jpg</thumb>
+      <src>tommiek-10-11-salontafel-met-lade-02.jpg</src>
+      <alt>.10-11 Vierkante salontafel met opbergruimte</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-11-salontafel-met-lade-03.jpg</thumb>
+      <src>tommiek-10-11-salontafel-met-lade-03.jpg</src>
+      <alt>.10-11 Vierkante salontafel met opbergruimte</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-11-salontafel-met-lade-04.jpg</thumb>
+      <src>tommiek-10-11-salontafel-met-lade-04.jpg</src>
+      <alt>.10-11 Vierkante salontafel met opbergruimte</alt>
+    </image>
+
+  </images>
+
+</product>

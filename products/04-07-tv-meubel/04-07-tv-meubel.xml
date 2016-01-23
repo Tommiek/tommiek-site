@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>04-07-tv-meubel</id>  
+  <name>.04-07 eenvoudig eiken tv meubel</name>
+  <htmlTitle>Eenvoudig eiken tv meubel .04-07 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Eenvoudig eiken tvmeubel</metaDescription>
+  <metaKeywords>tv meubel, av meubel, televisiemeubel</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Een passend gebeitst eiken tv meubel...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-04-07-tv-meubel-lead.jpg</src>
+    <alt>.04-07 eenvoudig eiken tv meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>Voor dit strakke tv meubel had de opdrachtgever zelf een helder beeld voor ogen. Tommiek hoefde alleen de details verder uit te werken.</p>
+  <p>Het meubel bestaat uit twee losse delen, het bovenste deel kan 180 graden worden omgedraaid om het meubel te spiegelen. Het onderste deel is in twee&euml;n gesplitst zodat alle kabels onderin achter een schot uit het zicht worden gehouden.</p>
+  <p>En zo zie je maar weer, simpel kan ook effectief en mooi zijn!</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.04-07 eenvoudig eiken tv meubel</h2>
+	   Ontwerp: opdrachtgever ism tommiek<br/>
+	   Categorie: tv meubels 
+	   <h2>Details</h2>
+	   Eikenhout, op kleur gebeitst en vervolgens mat afgelakt
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-04-07-tv-meubel-01.jpg</thumb>
+      <src>tommiek-04-07-tv-meubel-01.jpg</src>
+      <alt>.04-07 eenvoudig eiken tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-07-tv-meubel-02.jpg</thumb>
+      <src>tommiek-04-07-tv-meubel-02.jpg</src>
+      <alt>.04-07 eenvoudig eiken tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-07-tv-meubel-03.jpg</thumb>
+      <src>tommiek-04-07-tv-meubel-03.jpg</src>
+      <alt>.04-07 eenvoudig eiken tv meubel</alt>
+    </image>
+  </images>
+
+</product>

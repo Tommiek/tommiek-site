@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-20-kledingkast</id>  
+  <name>.09-20 kledingkast</name>
+  <htmlTitle>kledingkast .09-20 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Greeploze kledingkast op maat</metaDescription>
+  <metaKeywords>kledingkast, inloopkast, wandkast</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Kleren, kleren, nog meer kleren en ook schoenen netjes opgeborgen...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-09-20-kledingkast-lead.jpg</src>
+    <alt>.09-20 kledingkast</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>Een vrije kamer in het huis en een vrouw des huizes met een uitgebreide garderobe. De match was snel gemaakt, er moest een ruime klerenkast in deze kamer.</p>
+  <p>De kast is geheel op maat voor de ruimte. Hanggedeeltes, ruime ladebakken, en zelfs nog een plekje voor de studie is het resultaat. Nu nog een walk-in fridge voor de man.</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-20 kledingkast</h2>
+	   Ontwerp: Tommiek<br/>
+	   Categorie: kasten
+	   <h2>Details</h2>
+	   Gemaakt van premium wit meubelpanelen met greeploze sluitingen.
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-09-20-kledingkast-01.jpg</thumb>
+      <src>tommiek-09-20-kledingkast-01.jpg</src>
+      <alt>.09-20 kledingkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-20-kledingkast-02.jpg</thumb>
+      <src>tommiek-09-20-kledingkast-02.jpg</src>
+      <alt>.09-20 kledingkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-20-kledingkast-03.jpg</thumb>
+      <src>tommiek-09-20-kledingkast-03.jpg</src>
+      <alt>.09-20 kledingkast</alt>
+    </image>
+  </images>
+
+</product>

@@ -3,6 +3,9 @@
 <product>
   <id>krantenbak</id>
   <name>Krantenbakken</name>
+    <htmlTitle>Krantenbak | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle salontafels met krantenbak. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, meubels op maat, salontafel, meubelmakerij, nijmegen</metaKeywords>
   <leadText>Aan deze krantenbakken zijn salontafels bevestigd...</leadText>
   <leadImage>    
     <src>tommiek-10-02-krantenbak-lead.jpg</src>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>10-10-salontafel</id>  
+  <name>.10-10 Ronde salontafel</name>
+  <htmlTitle>Salontafel .10-10 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle kleine tafels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, bijzettafel, meubels op maat, salontafel, nijmegen</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Ronde salontafel...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-10-10-ronde-salontafel-lead.JPG</src>
+    <alt>.10-10 Ronde salontafel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>De opdrachtgever had een duidelijk beeld bij dit ronde salontafeltje, dat qua stijl moest passen bij de rond toelopende bank.</p>
+  <p>Daarnaast waren er praktische eisen: er moest ruimte zijn voor tijdschriften en de tafel moest hoog genoeg zijn om gemakkelijk de kopjes kwijt te kunnen. Of een goed glas wijn.</p>
+  <p>Et voli&agrave;, stijlvolle salontafel, toch?!</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.10-10 Ronde salontafel</h2>
+	   Ontwerp: opdrachtgever<br/>
+	   Categorie: kleine tafels
+	   <h2>Details</h2>
+	   Gemaakt van eikenhout heeft deze tafel een doorsnede van 90cm en een hoogte van 45 cm.<br/>
+	   De tafel is afgewerkt met een matte lak.
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-10-10-ronde-salontafel-01.JPG</thumb>
+      <src>tommiek-10-10-ronde-salontafel-01.JPG</src>
+      <alt>.10-10 Ronde salontafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-10-ronde-salontafel-02.JPG</thumb>
+      <src>tommiek-10-10-ronde-salontafel-02.JPG</src>
+      <alt>.10-10 Ronde salontafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-10-ronde-salontafel-03.JPG</thumb>
+      <src>tommiek-10-10-ronde-salontafel-03.JPG</src>
+      <alt>.10-10 Ronde salontafel</alt>
+    </image>
+  </images>
+
+</product>

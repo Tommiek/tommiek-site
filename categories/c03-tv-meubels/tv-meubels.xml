@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+	<id>tv-meubels</id>
+	<name>tv meubels</name>
+  	<htmlTitle>TV meubels | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle tv meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, av-meubels, televisiemeubel, meubelmakerij, nijmegen</metaKeywords>
+	<type>category</type>
+	<link>alle tv meubels...</link>
+  <description><![CDATA[ 
+  
+  Audio en tv-video apparatuur kun je prima wegwerken in een mooi tv meubel. Hieronder vind je enkele van de oplossingen die tommiek realiseerde.  
+  
+  ]]></description>
+	<leadImage>
+		<src>rubriek_audio.png</src>
+		<alt>tv meubels</alt>
+	</leadImage>
+	
+	<products>
+	  <product>04-08-tv-meubel</product>
+	  <product>04-05-tv-meubel-hoogglans</product>
+	  <product>04-04-tv-meubel</product>
+	  <product>04-06-tv-meubel</product>
+	  <product>10-03-tv-meubel</product>
+	  <product>04-07-tv-meubel</product>
+	  <product>03-01-tv-meubel</product>
+	  <product>04-01-av-inrichting</product>
+	  <product>08-02-tv-meubel</product>
+	  <product>01-02-tv-meubel</product>
+	</products>
+</category>

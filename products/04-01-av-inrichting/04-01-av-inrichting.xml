@@ -3,9 +3,10 @@
 <product>
   <id>04-01-av-inrichting</id>
   
-  <name>.04-01 inrichting audio video
-  </name>
-
+  <name>.04-01 inrichting audio video</name>
+  	<htmlTitle>TV meubel .04-01 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle av-inrichting op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, av-meubels, televisiemeubel, essen, meubelmakerij, nijmegen</metaKeywords>
   <leadText>Overweldigende multimedia (on)opvallend weggewerkt in de woninginrichting...
   </leadText>
   
@@ -25,7 +26,7 @@
 	
 	   <h2>.04-01 inrichting audio video</h2>
 	   Ontwerp: tommiek<br/>
-	   Categorie: audio video meubels<br/>
+	   Categorie: tv meubels<br/>
 	   <h2>Details</h2>
 	   Houtsoort essen, zwart gebeitst en afgelakt<br/>
 
@@ -36,22 +37,22 @@
     <image>
       <thumb>tommiek-04-01-av-inrichting-01.jpg</thumb>
       <src>tommiek-04-01-av-inrichting-01.jpg</src>
-      <alt>naam</alt>
+      <alt>.04-01 inrichting audio video</alt>
     </image>
     <image>
       <thumb>tommiek-04-01-av-inrichting-02.jpg</thumb>
       <src>tommiek-04-01-av-inrichting-02.jpg</src>
-      <alt>naam</alt>
+      <alt>.04-01 inrichting audio video</alt>
     </image>
     <image>
       <thumb>tommiek-04-01-av-inrichting-03.jpg</thumb>
       <src>tommiek-04-01-av-inrichting-03.jpg</src>
-      <alt>naam</alt>
+      <alt>.04-01 inrichting audio video</alt>
     </image>
     <image>
       <thumb>tommiek-04-01-av-inrichting-04.jpg</thumb>
       <src>tommiek-04-01-av-inrichting-04.jpg</src>
-      <alt>naam</alt>
+      <alt>.04-01 inrichting audio video</alt>
     </image>
   </images>
 

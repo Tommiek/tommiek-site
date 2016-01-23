@@ -3,9 +3,10 @@
 <product>
   <id>09-06-boekenkast</id>
   
-  <name>.09-06 boekenkast
-  </name>
-
+  <name>.09-06 boekenkast</name>
+	<htmlTitle>Boekenkast .09-06 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle handgemaakte boekenkasten op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, maatkast, kast op maat, boeken, meubelmakerij, nijmegen</metaKeywords>
   <leadText>Robuuste boekenkast...
   </leadText>
   
