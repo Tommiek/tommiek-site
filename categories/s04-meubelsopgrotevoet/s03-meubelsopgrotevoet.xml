@@ -2,11 +2,14 @@
 <category>
 	<id>meubelsopgrotevoet</id>
 	<name>meubels op grote voet</name>
+  	<htmlTitle>Meubels op grote voet | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, meubels op maat, televisiemeubel, salontafel, nijmegen</metaKeywords>
 	<type>serie</type>
 	<link>alle meubels op grote voet...</link>
   <description><![CDATA[ 
   
-  Kleine meubels op grote voet, in dienst als salontafel of av-meubel.
+  Kleine meubels op grote voet, in dienst als salontafel, bijzettafel of av-meubel.
   
   ]]></description>
 	<leadImage>
@@ -15,7 +18,7 @@
 	</leadImage>
 	<products>
 	  <product>10-01-salontafel</product>
-	  <product>10-03-avmeubel</product>
+	  <product>10-03-tv-meubel</product>
 	  <product>10-06-salontafel</product>
 	</products>
 </category>

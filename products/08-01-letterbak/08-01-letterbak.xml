@@ -3,9 +3,10 @@
 <product>
   <id>08-01-letterbak</id>
   
-  <name>.08-01 letterbak 2.0
-  </name>
-
+  <name>.08-01 letterbak 2.0</name>
+  	<htmlTitle>Letterbak 2.0 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle smaakmakers voor in huis. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, meubels op maat, maatwerk, meubelmakerij, nijmegen</metaKeywords>
   <leadText>Letterbak 2.0...
   </leadText>
   

@@ -3,10 +3,13 @@
   <id>kleinetafels</id>
   <type>category</type>
   <name>kleine tafels</name>
+  	<htmlTitle>Salontafels | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle kleine tafels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, salontafels, huiskamertafels, tafel, meubelmakerij, nijmegen</metaKeywords>
     <link>alle kleine tafels...</link>
   <description><![CDATA[ 
   
-  Kleine tafels van tommiek
+  Huiskamertafels van tommiek
   
   ]]></description>
   <leadImage>
@@ -14,8 +17,11 @@
     <alt>kleine tafels</alt>
   </leadImage>
   <products>
+    <product>10-11-salontafel</product>
+    <product>10-09-salontafel</product>
     <product>kleine-tafels-grote-voet</product>
     <product>10-05-stamtafel</product>
     <product>krantenbak</product>
+	<product>10-10-salontafel</product>
   </products>
 </category>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <product>
-
-
   <id>09-05-kast</id>
   <name>.09-05 kast</name>
-
+  	<htmlTitle>Greeploze kast .09-05 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Stijlvolle houten kasten op maat voor thuis. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, kast op maat, maatkast, greeploos, meubelmaker, nijmegen</metaKeywords>
   <leadText>Veel opbergruimte in stijlvolle kast...</leadText>
   
   <leadImage>
@@ -30,9 +30,6 @@
   ]]></details>
 
 
-  <variants>
-    <variant>eiken</variant>
-  </variants>
 
   <images>
     <image>

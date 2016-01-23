@@ -2,11 +2,15 @@
 
 <product>
   <id>nn-nn-naamkort</id>  
-  <name>.nn-nn naam uitgebreid</name>
+  <name>.nn-nn naam lang</name>
+  <htmlTitle>naam lang .nn-nn | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>avmeubel meta description</metaDescription>
+  <metaKeywords>@category@, keyword3, keyword2</metaKeywords>
+
 
   <leadText><![CDATA[
-  Leadtekst voor op categorie- of seriepagina...</leadText>
-  ]]>
+  Leadtekst voor op categorie- of seriepagina...
+  ]]></leadText>
   <leadImage>    
 	<src>tommiek-id-lead.jpg</src>
     <alt>name</alt>
