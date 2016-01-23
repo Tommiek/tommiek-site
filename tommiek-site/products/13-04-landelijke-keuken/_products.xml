@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>nn-nn-naamkort</id>  
+  <name>.nn-nn naam uitgebreid</name>
+  <htmlTitle>Hallo hallo</htmlTitle>
+  <metaDescription>avmeubel meta description</metaDescription>
+  <metaKeywords>@category@, keyword3, keyword2</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Leadtekst voor op categorie- of seriepagina...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-id-lead.jpg</src>
+    <alt>name</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  Vrije producttekst voor onder de fotos op productpagina.
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>name</h2>
+	   Ontwerp: tommiek<br/>
+	   Categorie: Serie: 
+	   <h2>Details</h2>
+	   Houtsoorten, afmetingen, afwerking, op maat ed
+
+  ]]></details>
+
+  <variants>
+    <variant>eiken</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-id-01.jpg</thumb>
+      <src>tommiek-id-01.jpg</src>
+      <alt>name</alt>
+    </image>
+    <image>
+      <thumb>tommiek-id-02.jpg</thumb>
+      <src>tommiek-id-02.jpg</src>
+      <alt>name</alt>
+    </image>
+    <image>
+      <thumb>tommiek-id-03.jpg</thumb>
+      <src>tommiek-id-03.jpg</src>
+      <alt>name</alt>
+    </image>
+    <image>
+      <thumb>tommiek-id-04.jpg</thumb>
+      <src>tommiek-id-04.jpg</src>
+      <alt>name</alt>
+    </image>
+    <image>
+      <thumb>tommiek-id-05.jpg</thumb>
+      <src>tommiek-id-05.jpg</src>
+      <alt>name</alt>
+    </image>
+    <image>
+      <thumb>tommiek-id-06.jpg</thumb>
+      <src>tommiek-id-06.jpg</src>
+      <alt>name</alt>
+    </image>
+  </images>
+
+</product>

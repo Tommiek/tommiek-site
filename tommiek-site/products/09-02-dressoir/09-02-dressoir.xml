@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+
+  <id>09-02-dressoir</id>
+  <name>.09-02 dressoir</name>
+  	<htmlTitle>Greeploos dressoir .09-02 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Tijdloos dressoir met speelgoedkisten. Bekijk het portfolio voor meer inspiratie!</metaDescription>
+    <metaKeywords>@product@, greeploos, kast op maat, maatkast, meubelmaker, nijmegen</metaKeywords>
+    <leadText>Dressoir met speelgoedkisten...</leadText>
+  <leadImage>
+ 
+    <src>tommiek-09-02-dressoir-lead.jpg</src>
+
+    <alt>.09-02 dressoir</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  <p>De greeploze fronten geven deze functionele serie een strak uiterlijk. </p>
+  De twee kisten onderin dit dressoir zijn bestemd voor speelgoed. Ze zijn voorzien van wieltjes en daarmee gemakkelijk door kinderen zelf te pakken en weer op te bergen.<br/> 
+  ]]></description>
+  
+
+  <details><![CDATA[
+	
+	   <h2>.09-02 dressoir</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   Serie: greeploze kasten<br />
+       Foto&#039;s: <a href="http://www.janhalmingh.nl/" target="new">Jan Halmingh...</a>
+	   <h2>Details</h2>
+	   Afgewerkt met olie.
+
+  ]]></details>
+
+
+  <variants>
+    <variant>eiken</variant>
+  </variants>
+
+  <images>
+    <image>
+      <thumb>tommiek-09-02-dressoir-3.jpg</thumb>
+      <src>tommiek-09-02-dressoir-3.jpg</src>
+      <alt>.09-02 dressoir</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-02-dressoir-1.jpg</thumb>
+      <src>tommiek-09-02-dressoir-1.jpg</src>
+      <alt>.09-02 dressoir</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-02-dressoir-2.jpg</thumb>
+      <src>tommiek-09-02-dressoir-2.jpg</src>
+      <alt>.09-02 dressoir</alt>
+    </image>
+     <image>
+      <thumb>tommiek-09-02-dressoir-5.jpg</thumb>
+      <src>tommiek-09-02-dressoir-5.jpg</src>
+      <alt>.09-02 dressoir</alt>
+    </image>
+	<image>
+      <thumb>tommiek-09-02-dressoir-4.jpg</thumb>
+      <src>tommiek-09-02-dressoir-4.jpg</src>
+      <alt>.09-02 dressoir</alt>
+    </image>
+  </images>
+</product>

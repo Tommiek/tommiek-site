@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+
+  <id>04-06-tv-meubel</id>  
+  <name>.04-06 tv meubel</name>
+  	<htmlTitle>TV meubel .04-06| Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle tv meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, av-meubels, televisiemeubel, eiken, meubelmakerij, nijmegen</metaKeywords>
+  <leadText>Simpel, functioneel, mooi...</leadText>
+  <leadImage>    
+	<src>tommiek-04-06-tv-meubel-eiken-lead.jpg</src>
+    <alt>.04-06 tv meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  Twee panelen en zes poten maken dit eiken tv meubel. Simpel, stijlvol en functioneel.
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.04-06 tv meubel</h2>
+	   Ontwerp: tommiek ism opdrachtgever<br/>
+	   Categorie: tv meubels
+	   <h2>Details</h2>
+	   eikenhout, afgewerkt met olie
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-04-06-tv-meubel-eiken-01.jpg</thumb>
+      <src>tommiek-04-06-tv-meubel-eiken-01.jpg</src>
+      <alt>.04-06 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-06-tv-meubel-eiken-02.jpg</thumb>
+      <src>tommiek-04-06-tv-meubel-eiken-02.jpg</src>
+      <alt>.04-06 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-04-06-tv-meubel-eiken-03.jpg</thumb>
+      <src>tommiek-04-06-tv-meubel-eiken-03.jpg</src>
+      <alt>.04-06 tv meubel</alt>
+    </image>
+  </images>
+
+</product>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-18-wandkasten</id>  
+  <name>.09-18 Wandkasten op maat</name>
+  <htmlTitle>Wandkasten op maat .09-18 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Unieke en stijlvolle handgemaakte wandkasten op maat. Bekijk het portfolio!</metaDescription>
+  <metaKeywords>@product@, kast op maat, maatkast, wandkast, meubelmaker, nijmegen</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Sfeervolle wandkasten op maat...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-09-18-wandkast-lead.jpg</src>
+    <alt>.09-18 Wandkasten op maat</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>Als onderdeel van een verbouwing van de woonkamer realiseerde Tommiek twee sfeervolle wandkasten.</p>
+  <p>Beide kasten zijn op maat gemaakt om de ruimte voor en tussen de muren optimaal te benutten. Het ontwerp van de kasten was in hoofdlijnen uitgewerkt door een binnenhuisarchitect. In overleg met de opdrachtgever heeft Tommiek het ontwerp verfijnd en gerealiseerd.</p>
+  <p>In de driedelige kast is de indeling van de bovenkasten speels uitgewerkt in een karakteristieke blokkenstijl die Tommiek kenmerkt.</p>
+  <p>De tweede kast in het zitgedeelte van de huiskamer heeft eveneens een aangepaste vakverdeling gekregen waarin de multimedia-apparatuur netjes kan worden weggewerkt achter gehard glas.</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-18 Wandkasten op maat</h2>
+	   Ontwerp: opdrachtgever </br>
+	   Categorie: Kasten
+	   <h2>Details</h2>
+	   Gemelamineerd plaatmateriaal, hoogwaardig meubelbeslag; led verlichting, gehard glas
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-09-18-wandkast-01.jpg</thumb>
+      <src>tommiek-09-18-wandkast-01.jpg</src>
+      <alt>.09-18 Wandkasten op maat</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-18-wandkast-02.jpg</thumb>
+      <src>tommiek-09-18-wandkast-02.jpg</src>
+      <alt>.09-18 Wandkasten op maat</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-18-wandkast-03.jpg</thumb>
+      <src>tommiek-09-18-wandkast-03.jpg</src>
+      <alt>.09-18 Wandkasten op maat</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-18-wandkast-04.jpg</thumb>
+      <src>tommiek-09-18-wandkast-04.jpg</src>
+      <alt>.09-18 Wandkasten op maat</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-18-wandkast-05.jpg</thumb>
+      <src>tommiek-09-18-wandkast-05.jpg</src>
+      <alt>.09-18 Wandkasten op maat</alt>
+    </image>
+  </images>
+
+</product>

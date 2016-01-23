@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>06-01-kast-3d</id>
+  
+  <name>.06-01 kast 3D</name>
+  	<htmlTitle>Open kast 3D .06-01 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle open kasten en wandmeubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, open kast, wandmeubels, wandkasten, maatkasten, meubelmakerij, nijmegen</metaKeywords>
+  <leadText>open kast in 3D...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-06-01-kast-3d-lead.jpg</src>
+    <alt>.06-01 open kast in 3D</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  <p>Deze drie dimensionale open kast vari&euml;rt in hoogte, breedte &eacute;n diepte. De vakken in de kast hebben regelmatige afmetingen.</p>
+  Deze kast is gemaakt van afvalhout uit de transportsector. Het resultaat is een strakke, metrische kast van uniek getekend beukenhout.
+  
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.06-01 open kast in 3D</h2>
+	   Ontwerp: tommiek<br/>
+	   Serie: open kasten<br/>
+	   Fotos: <a href="http://www.janhalmingh.nl/" target="new">Jan Halmingh</a>...
+	   <h2>Details</h2>
+	   3D kasten worden op maat ontworpen
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-01.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-01.jpg</src>
+      <alt>.06-01 open kast in 3D</alt>
+    </image>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-02.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-02.jpg</src>
+      <alt>.06-01 open kast in 3D</alt>
+    </image>
+    <image>
+      <thumb>tommiek-06-01-kast-3d-03.png</thumb>
+      <src>tommiek-06-01-kast-3d-03.jpg</src>
+      <alt>.06-01 open kast in 3D</alt>
+    </image>    <image>
+      <thumb>tommiek-06-01-kast-3d-04.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-04.jpg</src>
+      <alt>.06-01 open kast in 3D</alt>
+    </image>    <image>
+      <thumb>tommiek-06-01-kast-3d-05.jpg</thumb>
+      <src>tommiek-06-01-kast-3d-05.jpg</src>
+      <alt>.06-01 open kast in 3D</alt>
+    </image>
+  </images>
+
+</product>

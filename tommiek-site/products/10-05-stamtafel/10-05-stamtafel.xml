@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>10-05-stamtafel</id>
+  
+  <name>.10-05 stamtafel</name>
+  	<htmlTitle>Stamtafel .10-05 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Robuuste salontafels van eiken balken. Bekijk het portfolio voor meer inspiratie!</metaDescription>
+    <metaKeywords>@product@, eiken balken, meubels op maat, salontafel, meubelmakerij, nijmegen</metaKeywords>
+  <leadText>Van dik hout zaagt men stamtafels...
+  </leadText>
+  
+  <leadImage>    <src>tommiek-10-05-stamtafel-lead.jpg</src>
+    <alt>.10-05 stamtafel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Eiken balken bijeengehouden door bout en moer vormen het blad van deze salontafel. De robuustheid van de stamtafel doet niet onder voor de boom die hiervoor sneuvelde.<br/>
+  De stamtafel is een hommage aan de eik.
+  
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.10-05 stamtafel</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   Categorie: kleine tafels<br/>
+	   <h2>Details</h2>
+	   Afgewerkt met olie.
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-10-05-stamtafel-01.jpg</thumb>
+      <src>tommiek-10-05-stamtafel-01.jpg</src>
+      <alt>.10-05 stamtafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-05-stamtafel-02.jpg</thumb>
+      <src>tommiek-10-05-stamtafel-02.jpg</src>
+      <alt>.10-05 stamtafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-05-stamtafel-03.jpg</thumb>
+      <src>tommiek-10-05-stamtafel-03.jpg</src>
+      <alt>.10-05 stamtafel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-10-05-stamtafel-04.jpg</thumb>
+      <src>tommiek-10-05-stamtafel-04.jpg</src>
+      <alt>.10-05 stamtafel</alt>
+    </image>
+  </images>
+
+</product>

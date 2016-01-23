@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>03-01-tv-meubel</id>
+  
+  <name>.03-01 tv meubel</name>
+  	<htmlTitle>TV meubel .03-01 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle tv meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, av-meubels, televisiemeubel, mahonie, meubelmakerij, nijmegen</metaKeywords>
+  <leadText>Een stijlvol tv meubel van esdoorn en mahonie...</leadText>
+  
+  <leadImage>    <src>tommiek-03-01-tv-meubel-lead.jpg</src>
+    <alt>.03-01 tv meubel</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+  Een baken van rust en eenvoud is dit tv meubel. De elzenhouten onderkast is 60cm diep. Deze biedt met twee laden en een klep veel opbergruimte voor dvd&#039;s en apparatuur. <br/>
+  De mahonie achterwand biedt contrast &eacute;n steun voor de tv.
+
+  ]]></description>
+
+  <details><![CDATA[
+	
+	   <h2>.03-01 tv meubel</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   Categorie: tv meubels
+	   <h2>Details</h2>
+	   Mahonie met Amerikaans esdoorn (maple).<br/>
+	   Afwerking met whitewash en olie.
+
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-03-01-tv-meubel-01.jpg</thumb>
+      <src>tommiek-03-01-tv-meubel-01.jpg</src>
+      <alt>.03-01 tv meubel-wedden?</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-tv-meubel-02.jpg</thumb>
+      <src>tommiek-03-01-tv-meubel-02.jpg</src>
+      <alt>.03-01 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-tv-meubel-03.jpg</thumb>
+      <src>tommiek-03-01-tv-meubel-03.jpg</src>
+      <alt>.03-01 tv meubel</alt>
+    </image>
+    <image>
+      <thumb>tommiek-03-01-tv-meubel-04.jpg</thumb>
+      <src>tommiek-03-01-tv-meubel-04.jpg</src>
+      <alt>.03-01 tv meubel</alt>
+    </image>
+  </images>
+
+</product>

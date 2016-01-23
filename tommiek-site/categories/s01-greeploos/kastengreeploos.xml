@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+	<id>greeploos</id>
+	<name>Greeploze kasten</name>
+	<htmlTitle>Greeploze kasten | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle handgemaakte greeploze kasten op maat.</metaDescription>
+    <metaKeywords>@product@, greeploos, maatkast, kast op maat, meubelmakerij, nijmegen</metaKeywords>
+	<type>serie</type>
+	<link>alle greeploze kasten...</link>
+  <description><![CDATA[ 
+  
+  Enkele voorbeelden van eikenhouten meubels in tommiek&#039;s greeploze stijl. Alle greeploze kasten zijn op maat ontworpen in samenwerking met de opdrachtgever. 
+  
+  ]]></description>
+	<leadImage>
+		<src>serie_greeploos.png</src>
+		<alt>greeploze kasten</alt>
+	</leadImage>
+	<products>
+	  <product>09-13-greeploze-kledingkast</product>
+	  <product>09-12-greeploze-kast</product>
+	  <product>09-02-dressoir</product>
+	  <product>13-02-keukenkast</product>
+	  <product>09-05-kast</product>
+	  <product>04-04-tv-meubel</product>
+	  <product>09-04-kast</product>
+	</products>
+</category>

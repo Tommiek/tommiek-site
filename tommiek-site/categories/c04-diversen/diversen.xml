@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+  <id>diversen</id>
+  <name>diversen</name>
+  	<htmlTitle>Meubels op maat | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle meubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>badkamermeubels, dressoir, meubels op maat, maatwerk, meubelmakerij, nijmegen</metaKeywords>
+	<type>category</type>
+  <link>alle meubels in diversen...</link>
+  <description><![CDATA[ 
+  
+  Een diverse collectie meubels en smaakmakers. 
+  
+  ]]></description>
+  <leadImage>
+    <src>rubriek-diversen.png</src>
+    <alt>verschillende meubels en smaakmakers</alt>
+  </leadImage>
+  <products>
+	<product>13-01-keukenblok</product>
+	<product>11-16-haardombouw</product>
+	<product>11-07-nachtkastjes</product>
+	<product>08-05-eiken-sokkels</product>
+	<product>08-01-letterbak</product>
+    <product>09-02-dressoir</product>
+	<product>05-01-kist</product>
+	<product>02-01-renovatie</product>
+	<product>08-04-kerstboom</product>	
+  </products>
+</category>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-23-open-wandkast</id>  
+  <name>.09-23 Wandvullende boekenkast</name>
+  <htmlTitle>Open wandvullende boekenkast .09-23 | Meubelmakerij Tommiek</htmlTitle>
+  <metaDescription>Open boekenkast van gespoten MDF op maat</metaDescription>
+  <metaKeywords>wandkast, open kast, boekenkast, gespoten mdf kast</metaKeywords>
+
+
+  <leadText><![CDATA[
+  Wandvullende open boekenkast op maat...
+  ]]></leadText>
+  <leadImage>    
+	<src>tommiek-09-23-open-wandkast-op-maat-lead.jpg</src>
+    <alt>.09-23 Wandvullende boekenkast</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+  <p>De 40 jaar oude donkere boekenkast in deze kamer was broodnodig aan herziening toe. Tommiek ontwierp zo ongeveer het tegenovergestelde: een lichte kast met ranke staanders en en stevige liggers. </p>
+  <p>De afwisseling in grootte van de vakken geeft de kast een speels en modern uiterlijk. Het middenvak is bedoeld voor de familiefoto's en voorzien van sfeervolle ledverlichting.</p>
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-23 Wandvullende boekenkast</h2>
+	   Ontwerp: Tommiek<br/>
+	   Serie: open kasten
+	   <h2>Details</h2>
+	   Materiaal: MDF; 30mm dik voor de liggers en 18mm voor de staanders. De kast is in zijn geheel in de gewenste kleur gespoten. Dimbare ledverlichting in &eacute;&eacute;n van de vakken.
+  ]]></details>
+
+
+  <images>
+    <image>
+      <thumb>tommiek-09-23-open-wandkast-op-maat-01.jpg</thumb>
+      <src>tommiek-09-23-open-wandkast-op-maat-01.jpg</src>
+      <alt>.09-23 Wandvullende boekenkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-23-open-wandkast-op-maat-02.jpg</thumb>
+      <src>tommiek-09-23-open-wandkast-op-maat-02.jpg</src>
+      <alt>.09-23 Wandvullende boekenkast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-23-open-wandkast-op-maat-03.jpg</thumb>
+      <src>tommiek-09-23-open-wandkast-op-maat-03.jpg</src>
+      <alt>.09-23 Wandvullende boekenkast</alt>
+    </image>
+
+  </images>
+
+</product>

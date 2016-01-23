@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<product>
+  <id>09-05-kast</id>
+  <name>.09-05 kast</name>
+  	<htmlTitle>Greeploze kast .09-05 | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Stijlvolle houten kasten op maat voor thuis. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, kast op maat, maatkast, greeploos, meubelmaker, nijmegen</metaKeywords>
+  <leadText>Veel opbergruimte in stijlvolle kast...</leadText>
+  
+  <leadImage>
+    <src>tommiek-09-05-kast-lead.jpg</src>
+    <alt>.09-05 kast</alt>
+  </leadImage>
+  
+  <description><![CDATA[
+
+   <p>De greeploze fronten geven deze functionele serie een strak uiterlijk. </p>
+   In deze eikenhouten kast met kisten, lades en schuifdeuren past zowat de inventaris van de hele woonkamer.<br/> 
+   Dat is misschien wat overdreven, maar deze stijlvolle kast is erg functioneel met twee speelgoedkisten, vijf lades en een ruime bovenkast.
+
+  ]]></description>
+
+  <details><![CDATA[
+	   <h2>.09-05 kast</h2>
+	   Ontwerp: opdrachtgever met tommiek<br/>
+	   Serie: greeploze kasten
+	   <h2>Details</h2>
+	   Afgewerkt met olie en pigment
+  ]]></details>
+
+
+
+  <images>
+    <image>
+      <thumb>tommiek-09-05-kast-1.jpg</thumb>
+      <src>tommiek-09-05-kast-1.jpg</src>
+      <alt>.09-05 kast</alt>
+    </image>
+   <image>
+      <thumb>tommiek-09-05-kast-4.jpg</thumb>
+      <src>tommiek-09-05-kast-4.jpg</src>
+      <alt>.09-05 kast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-05-kast-2.jpg</thumb>
+      <src>tommiek-09-05-kast-2.jpg</src>
+      <alt>.09-05 kast</alt>
+    </image>
+    <image>
+      <thumb>tommiek-09-05-kast-3.jpg</thumb>
+      <src>tommiek-09-05-kast-3.jpg</src>
+      <alt>.09-05 kast</alt>
+    </image>
+
+  </images>
+</product>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <id>open-kasten</id>
+    <name>open kasten</name>
+  	<htmlTitle>Kasten en wandmeubels | Meubelmakerij Tommiek</htmlTitle>
+    <metaDescription>Unieke en stijlvolle open kasten en wandmeubels op maat. Bekijk het portfolio!</metaDescription>
+    <metaKeywords>@product@, wandmeubels, wandkasten, maatkasten, meubelmakerij, nijmegen</metaKeywords>
+    <type>serie</type>
+    <link>alle open kasten...</link>
+  <description><![CDATA[ 
+  
+  Eigenwijze kasten op maat die in hoogte, breedte en soms ook diepte vari&euml;ren. 
+  
+  ]]></description>
+	<leadImage>
+		<src>serie-kastens3.png</src>
+		<alt>open kasten</alt>
+	</leadImage>
+	<products>
+    <product>09-22-open-wandkast</product>
+    <product>09-23-open-wandkast</product>	  
+	 <product>09-21-boek-en-tv-kast</product>
+	 <product>09-11-open-kast</product>
+	 <product>06-01-kast-3d</product>
+	 <product>06-02-kast-3d</product>
+	 <product>09-07-kast</product>
+	 <product>09-09-open-kast</product>
+	 </products>
+</category>
