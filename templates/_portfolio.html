@@ -22,6 +22,20 @@
   })();
 
   </script>
+
+  <style>
+.blockx {
+    color: blue;
+    width: 70px;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+  </style>
+
   </head>
   <body class="portfolio">
     <div id="pagewrapper">
@@ -46,81 +60,65 @@
       <div id="viewwrapper">
         <div id="contentwrapper">
           <div id="breadcrumb">
-            <small><a href="index.html">home</a> > portfolio</small>
+            <small><a href="index.html">home</a> &gt; portfolio</small>
           </div>
           <div id="contentfull">
-            <article>
-              <header>
-                <h1>Portfolio</h1>
-                <p>Tommiek werkt met hout in alle soorten en maten. Van renovatie tot creatie. Kijk hier wat tommiek te bieden heeft.</p>
-              </header>
-              <hr/>
-              <h2>series</h2>
+            <h1>Portfolio</h1>
+            <p>Tommiek werkt met hout in alle soorten en maten. Van renovatie tot creatie. Kijk hier wat tommiek te bieden heeft.</p>
+            <hr/><br/>
+            <div>
+              <div style="float: left">
 #set( $inDisplay = false )
-#foreach( $category in $series )
-  #if( $velocityCount%4 == 1 )
+#foreach( $category in $categories )
+  #if( $velocityCount%3 == 1 )
     #set( $inDisplay = true )
-              <div class="display">
-                <div class="left">
+                <div class="display">
+                  <div class="left">
   #else
-                <div class="right">
+                  <div class="right">
   #end
-                  <div>
-                    <a href="${category.id}/index.html">
-                      <img src="${category.id}/${category.leadImage.src}" alt="${category.leadImage.alt}" title="${category.leadImage.alt}" width="180" height="135" />
-                    </a>
+                    <div>
+                      <a href="${category.id}/index.html">
+                        <img src="${category.id}/${category.leadImage.src}" alt="${category.leadImage.alt}" title="${category.leadImage.alt}" width="180" height="135" />
+                      </a>
+                    </div>
+                    <div class="displaytitle">
+                      <a href="${category.id}/index.html">${category.name}</a>
+                    </div>
                   </div>
-                  <div class="displaytitle">
-                    <a href="${category.id}/index.html">
-                      ${category.name}
-                    </a>
-                  </div>
-                </div>
-  #if( $velocityCount%4 == 0 )
+  #if( $velocityCount%3 == 0 )
     #set( $inDisplay = false )
-                <div class="clear"></div>
-              </div>
+                  <div class="clear"></div>
+                  </div>
   #end
 #end
 #if( $inDisplay == true )
-                <div class="clear"></div>
-              </div>
-#end
-              <hr/>
-              <h2>volledig overzicht</h2>
-#set( $inDisplay = false )
-#foreach( $category in $noseries )
-  #if( $velocityCount%4 == 1 )
-    #set( $inDisplay = true )
-              <div class="display">
-                <div class="left">
-  #else
-                <div class="right">
-  #end
-                  <div>
-                    <a href="${category.id}/index.html">
-                      <img src="${category.id}/${category.leadImage.src}" alt="${category.leadImage.alt}" title="${category.leadImage.alt}" width="180" height="135" />
-                    </a>
-                  </div>
-                  <div class="displaytitle">
-                    <a href="${category.id}/index.html">
-                      ${category.name}
-                    </a>
-                  </div>
+                  <div class="clear"></div>
                 </div>
-  #if( $velocityCount%4 == 0 )
-    #set( $inDisplay = false )
-                <div class="clear"></div>
-              </div>
-  #end
 #end
-#if( $inDisplay == true )
-                <div class="clear"></div>
               </div>
+              <div class="blocky" style="float: right; margin-right: 0px; background: rgba(90,90,90,0.4)">
+                <div style="text-align: center">
+                  <p>Uitgelicht</p>
+                </div>
+#set( $inDisplay = false )
+#foreach( $special in $specials )
+                <div class="display" style="margin-left: 10px; margin-right: 10px">
+                  <div class="left">
+                    <div style="background: rgba(45,45,45,0.3);">
+                      <a href="${special.category.id}/${special.id}.html">
+                        <img src="${special.category.id}/${special.leadImage.src}" alt="${special.leadImage.alt}" title="${special.leadImage.alt}" width="180" height="135" />
+                      </a>
+                    </div>
+                    <div class="displaytitle">
+                      <a href="${special.category.id}/${special.id}.html">${special.leadText}</a>
+                    </div>
+                  </div>
+                  <div class="clear"></div>
+                </div>
 #end
-              <footer>
-              </footer>
-            </article>
+              </div>
+            </div>
           </div>
           <div class="clear"></div>
         </div>

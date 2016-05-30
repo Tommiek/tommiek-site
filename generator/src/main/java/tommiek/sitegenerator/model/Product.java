@@ -13,19 +13,38 @@ import javax.xml.bind.annotation.XmlTransient;
 @XmlAccessorType(XmlAccessType.PROPERTY)
 public class Product extends AbstractEntity {
 
+    private Category myCategory;
+    private String myType;
 	private String myDetails;
-	private String myLeadText;
+    private String myLeadText;
 	private Image myLeadImage;
 	private List<String> myVariants;
 	private List<Image> myImages;
 
-	public String getDetails() {
-		return myDetails;
+    @XmlTransient
+	public Category getCategory(){
+	    return myCategory;
 	}
 
-	public void setDetails(final String details) {
-		myDetails = details;
+	public void setCategory(final Category category){
+	    myCategory = category;
 	}
+
+	public String getType() {
+        return myType;
+    }
+
+    public void setType(final String type) {
+        myType = type;
+    }
+
+    public String getDetails() {
+        return myDetails;
+    }
+
+    public void setDetails(final String details) {
+        myDetails = details;
+    }
 
 	public String getLeadText() {
 		return myLeadText;

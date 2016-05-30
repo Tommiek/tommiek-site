@@ -160,7 +160,7 @@ public final class SiteGenerator {
 	public void generatePortFolio(final PageGenerator pageGenerator, final SitemapBuilder sitemapBuilder,
 			final List<Category> categories, final File targetDir) throws GenerateException {
 		final File categoryfile = new File(targetDir, "portfolio.html");
-		pageGenerator.generatPortfolioPage(categories, categoryfile);
+		pageGenerator.generatePortfolioPage(categories, categoryfile);
 		sitemapBuilder.addUrl("http://www.tommiek.nl/portfolio.html", 0.8f);
 	}
 

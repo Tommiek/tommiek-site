@@ -83,6 +83,7 @@ public final class ModelBuilder {
 				throw new GenerateException("Category lists unknown product " + productid + " at "
 						+ category.getSourceFile());
 			category.addProduct(product);
+			product.setCategory(category);
 		}
 	}
 

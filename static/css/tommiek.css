@@ -63,7 +63,7 @@ hr { border: 0; height: 0; border-top: 1px solid rgba(0, 0, 0, 0.1); border-bott
 
 #contentleft { float: left; margin-left: 31px; margin-bottom: 36px; width: 493px; }
 #contentright { float: left; margin-left: 36px; width: 311px; }
-#contentfull { float: left; margin-left: 31px; margin-bottom: 36px; width: 838px; }
+#contentfull { float: left; margin-left: 31px; margin-bottom: 36px; width: 838px;}
 
 #footerwrapper { position: relative; top: 20px; width: 902px; height: 30px; background: url(footerbalk.png) center; text-align: center; border: solid 1px #B4A59B;}
 #footerfloater { float:left; height:8px;}
@@ -101,7 +101,7 @@ div.thumbimage {  float: left;  padding-bottom: 7px; }
 .gallery .right { float: left; margin-top: 50px; margin-left: 25px; width: 220px; }
 .gallery .clear { display: block; clear: both; }
 
-#colofonwrapper { display: none; } 
+#colofonwrapper { display: none; }
 .colofon { position: relative; width:300px; height:180px; background: #000 center; padding: 36px;}
 
 #infotable { width : 400px; }

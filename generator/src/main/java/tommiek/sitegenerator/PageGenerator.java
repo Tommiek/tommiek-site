@@ -44,23 +44,22 @@ public class PageGenerator {
 		writePage(file, template, context);
 	}
 
-	public void generatPortfolioPage(final List<Category> categories, final File file) throws GenerateException {
+	public void generatePortfolioPage(final List<Category> categories, final File file) throws GenerateException {
 		SiteGenerator.LOG.log(Level.INFO, "\tgenerating " + file.getAbsolutePath());
-		final List<Category> series = new LinkedList<>();
-		final List<Category> noseries = new LinkedList<>();
+		final List<Product> specials = new LinkedList<>();
 		for (final Category category : categories) {
-			if (category.getType().equals("serie")) {
-				series.add(category);
-			} else {
-				noseries.add(category);
-			}
+		    for(final Product product : category.getProducts()){
+		        if(product.getType() != null && product.getType().equals("special") && !specials.contains(product)){
+		            specials.add(product);
+		        }
+		    }
 		}
 		final Context context = new VelocityContext();
 		context.put("htmlTitle", getProperty("htmlTitle", "portfolio", "", "", ""));
 		context.put("metaDescription", getProperty("metaDescription", "portfolio", "", "", ""));
 		context.put("metaKeywords", getProperty("metaKeywords", "portfolio", "", "", ""));
-		context.put("series", series);
-		context.put("noseries", noseries);
+		context.put("specials", specials);
+		context.put("categories", categories);
 		writePage(file, "_portfolio.html", context);
 	}
 
